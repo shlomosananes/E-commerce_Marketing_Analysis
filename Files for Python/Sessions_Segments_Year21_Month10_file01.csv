@@ -1,0 +1,420 @@
+# ----------------------------------------
+# 1 Master View
+# Sessions - Details of User - Export by Month
+# 20211001-20211031
+# ----------------------------------------
+
+Gender,Age,User Type,Default Channel Grouping,Country,Total Value,Sessions,Bounces,Bounce Rate,Entered Checkout (Goal 4 Completions),Entered Checkout (Goal 4 Conversion Rate),Transactions,E-commerce Conversion Rate,Users,New Users,Session Duration,Page Views
+male,25-34,Returning Visitor,Direct,United States,"US$17,567.69","1,718",392,22.82%,261,15.19%,200,11.64%,887,0,173:08:17,"19,267"
+female,25-34,Returning Visitor,Direct,United States,"US$17,284.27","1,413",326,23.07%,220,15.57%,183,12.95%,731,0,153:05:42,"14,680"
+male,35-44,Returning Visitor,Direct,United States,"US$8,874.95",819,182,22.22%,119,14.53%,96,11.72%,455,0,80:33:47,"8,328"
+female,35-44,Returning Visitor,Direct,United States,"US$8,287.52",533,145,27.20%,76,14.26%,62,11.63%,274,0,51:27:38,"5,320"
+female,45-54,Returning Visitor,Direct,United States,"US$7,687.34",329,78,23.71%,50,15.20%,41,12.46%,158,0,36:41:26,"3,133"
+female,18-24,Returning Visitor,Direct,United States,"US$7,657.16",841,171,20.33%,133,15.81%,127,15.10%,460,0,90:29:44,"8,867"
+female,35-44,New Visitor,Direct,United States,"US$5,777.30",472,162,34.32%,32,6.78%,23,4.87%,472,472,33:01:56,"2,783"
+male,18-24,Returning Visitor,Direct,United States,"US$5,633.83",809,189,23.36%,116,14.34%,74,9.15%,435,0,69:41:24,"7,823"
+male,45-54,Returning Visitor,Direct,United States,"US$5,492.68",466,115,24.68%,73,15.67%,52,11.16%,268,0,48:18:02,"4,969"
+female,25-34,New Visitor,Direct,United States,"US$4,892.42","1,240",368,29.68%,80,6.45%,54,4.35%,"1,240","1,240",97:38:44,"8,768"
+male,25-34,New Visitor,Direct,United States,"US$4,620.34","1,657",519,31.32%,106,6.40%,72,4.35%,"1,655","1,657",115:37:11,"11,568"
+male,35-44,New Visitor,Direct,United States,"US$3,652.88",807,226,28.00%,78,9.67%,50,6.20%,807,807,60:58:22,"6,080"
+female,18-24,New Visitor,Direct,United States,"US$3,490.75",945,318,33.65%,68,7.20%,58,6.14%,945,945,66:06:50,"6,266"
+female,55-64,Returning Visitor,Direct,United States,"US$3,178.20",97,26,26.80%,14,14.43%,11,11.34%,55,0,10:01:34,"1,253"
+male,18-24,New Visitor,Direct,United States,"US$2,681.83","1,004",342,34.06%,62,6.18%,43,4.28%,"1,004","1,004",59:27:50,"6,005"
+male,45-54,New Visitor,Direct,United States,"US$2,393.91",551,171,31.03%,44,7.99%,29,5.26%,551,551,38:51:36,"3,850"
+male,55-64,Returning Visitor,Direct,United States,"US$2,355.94",256,50,19.53%,45,17.58%,26,10.16%,114,0,24:49:00,"2,655"
+male,25-34,Returning Visitor,Direct,Canada,"US$1,954.84",94,32,34.04%,12,12.77%,7,7.45%,44,0,09:07:52,849
+female,25-34,Returning Visitor,Direct,Canada,"US$1,798.00",75,20,26.67%,5,6.67%,2,2.67%,38,0,06:38:31,524
+female,45-54,New Visitor,Direct,United States,"US$1,701.91",353,124,35.13%,25,7.08%,22,6.23%,352,353,24:04:41,"2,301"
+male,65+,Returning Visitor,Direct,United States,"US$1,374.29",101,22,21.78%,11,10.89%,16,15.84%,59,0,12:16:31,"1,093"
+male,55-64,New Visitor,Direct,United States,"US$1,160.80",270,89,32.96%,21,7.78%,15,5.56%,270,270,17:50:12,"1,816"
+female,25-34,Returning Visitor,Direct,United Kingdom,US$967.20,98,34,34.69%,13,13.27%,8,8.16%,54,0,07:58:50,653
+male,65+,New Visitor,Direct,United States,US$936.04,147,44,29.93%,12,8.16%,8,5.44%,147,147,12:40:23,"1,122"
+female,25-34,Returning Visitor,Paid Search,United States,US$930.24,67,14,20.90%,17,25.37%,12,17.91%,30,0,09:53:04,728
+male,18-24,Returning Visitor,Paid Search,United States,US$517.10,39,6,15.38%,8,20.51%,6,15.38%,30,0,04:44:31,417
+female,65+,New Visitor,Direct,United States,US$501.60,122,52,42.62%,7,5.74%,5,4.10%,122,122,06:41:13,648
+female,65+,Returning Visitor,Direct,United States,US$430.88,76,17,22.37%,10,13.16%,7,9.21%,36,0,05:28:44,669
+female,35-44,Returning Visitor,Paid Search,United States,US$423.60,27,6,22.22%,3,11.11%,6,22.22%,16,0,02:23:32,288
+female,55-64,New Visitor,Direct,United States,US$335.30,167,49,29.34%,12,7.19%,7,4.19%,167,167,11:33:06,"1,146"
+female,25-34,New Visitor,Direct,United Kingdom,US$298.40,106,47,44.34%,2,1.89%,4,3.77%,106,106,06:06:06,508
+female,35-44,Returning Visitor,Direct,United Kingdom,US$291.20,26,7,26.92%,2,7.69%,1,3.85%,21,0,01:45:45,123
+male,25-34,Returning Visitor,Paid Search,United States,US$239.08,52,15,28.85%,4,7.69%,3,5.77%,40,0,03:39:40,349
+female,25-34,New Visitor,Direct,Spain,US$235.44,67,36,53.73%,3,4.48%,1,1.49%,66,67,04:28:08,217
+male,25-34,New Visitor,Paid Search,United States,US$232.00,103,41,39.81%,3,2.91%,3,2.91%,103,103,04:45:30,545
+male,35-44,New Visitor,Direct,Canada,US$228.20,91,40,43.96%,4,4.40%,2,2.20%,91,91,04:51:39,437
+male,25-34,New Visitor,Direct,Canada,US$224.80,144,63,43.75%,8,5.56%,1,0.69%,144,144,07:06:06,813
+male,18-24,New Visitor,Direct,Canada,US$219.20,119,59,49.58%,4,3.36%,2,1.68%,119,119,05:57:13,644
+male,65+,New Visitor,Direct,United Kingdom,US$213.28,20,10,50.00%,1,5.00%,1,5.00%,20,20,01:14:37,103
+male,45-54,Returning Visitor,Direct,United Kingdom,US$204.80,22,8,36.36%,3,13.64%,3,13.64%,13,0,00:46:59,119
+male,45-54,New Visitor,Direct,United Kingdom,US$187.04,66,24,36.36%,1,1.52%,2,3.03%,66,66,02:58:51,273
+male,55-64,New Visitor,Direct,Canada,US$161.40,21,5,23.81%,2,9.52%,1,4.76%,21,21,01:44:02,127
+male,45-54,New Visitor,Paid Search,United States,US$160.00,53,27,50.94%,2,3.77%,2,3.77%,53,53,01:38:43,211
+female,25-34,Returning Visitor,Direct,India,US$158.40,69,31,44.93%,3,4.35%,1,1.45%,42,0,03:38:03,242
+male,35-44,Returning Visitor,Paid Search,United States,US$145.80,21,9,42.86%,2,9.52%,3,14.29%,11,0,01:19:20,140
+male,45-54,New Visitor,Direct,Taiwan,US$137.20,31,10,32.26%,1,3.23%,1,3.23%,31,31,02:03:04,224
+female,35-44,New Visitor,Direct,Singapore,US$132.00,68,30,44.12%,4,5.88%,1,1.47%,68,68,05:01:51,267
+female,35-44,New Visitor,Direct,Canada,US$119.20,63,38,60.32%,2,3.17%,1,1.59%,63,63,03:18:39,231
+male,35-44,Returning Visitor,Direct,Canada,US$118.40,61,21,34.43%,6,9.84%,2,3.28%,32,0,05:09:20,461
+female,18-24,Returning Visitor,Paid Search,United States,US$113.68,40,9,22.50%,7,17.50%,4,10.00%,21,0,03:21:07,330
+male,25-34,Returning Visitor,Direct,India,US$109.60,117,52,44.44%,4,3.42%,1,0.85%,84,0,05:23:04,563
+female,18-24,New Visitor,Direct,United Kingdom,US$106.90,97,50,51.55%,3,3.09%,2,2.06%,97,97,02:55:21,289
+female,25-34,New Visitor,Paid Search,United States,US$89.90,98,55,56.12%,4,4.08%,3,3.06%,98,98,04:54:31,431
+male,45-54,Returning Visitor,Direct,Canada,US$88.80,58,18,31.03%,8,13.79%,1,1.72%,24,0,05:00:37,405
+female,35-44,New Visitor,Paid Search,United States,US$84.00,51,29,56.86%,2,3.92%,1,1.96%,51,51,01:13:44,158
+male,25-34,Returning Visitor,Direct,United Kingdom,US$83.20,70,25,35.71%,2,2.86%,2,2.86%,57,0,03:47:40,379
+female,18-24,Returning Visitor,Direct,Canada,US$68.00,62,20,32.26%,7,11.29%,1,1.61%,28,0,05:30:03,426
+male,18-24,New Visitor,Paid Search,United States,US$58.00,71,42,59.15%,1,1.41%,1,1.41%,71,71,01:52:35,260
+male,25-34,New Visitor,Direct,United Kingdom,US$49.00,180,90,50.00%,4,2.22%,1,0.56%,180,180,05:51:27,700
+male,35-44,Returning Visitor,Direct,United Kingdom,US$45.80,41,18,43.90%,4,9.76%,1,2.44%,36,0,04:00:14,277
+female,25-34,Returning Visitor,Direct,Germany,US$44.80,22,9,40.91%,2,9.09%,1,4.55%,18,0,01:27:27,148
+female,18-24,New Visitor,Direct,Canada,US$44.56,76,37,48.68%,2,2.63%,1,1.32%,76,76,05:16:27,398
+female,25-34,Returning Visitor,Direct,Singapore,US$40.00,45,20,44.44%,6,13.33%,2,4.44%,20,0,02:23:33,220
+female,35-44,New Visitor,Direct,United Kingdom,US$32.00,53,27,50.94%,4,7.55%,1,1.89%,53,53,01:36:56,207
+male,35-44,New Visitor,Paid Search,United States,US$24.00,59,32,54.24%,3,5.08%,1,1.69%,59,59,02:01:53,231
+female,45-54,Returning Visitor,Paid Search,United States,US$19.00,22,8,36.36%,3,13.64%,1,4.55%,12,0,02:03:12,162
+female,18-24,New Visitor,Direct,Argentina,US$0.00,10,8,80.00%,0,0.00%,0,0.00%,10,10,00:02:18,15
+female,18-24,New Visitor,Direct,Australia,US$0.00,71,33,46.48%,1,1.41%,0,0.00%,69,71,04:02:17,239
+female,18-24,New Visitor,Direct,Belgium,US$0.00,18,13,72.22%,0,0.00%,0,0.00%,18,18,00:03:03,28
+female,18-24,New Visitor,Direct,Brazil,US$0.00,56,35,62.50%,1,1.79%,0,0.00%,56,56,01:54:33,132
+female,18-24,New Visitor,Direct,China,US$0.00,19,13,68.42%,0,0.00%,0,0.00%,19,19,00:37:51,58
+female,18-24,New Visitor,Direct,Colombia,US$0.00,41,25,60.98%,0,0.00%,0,0.00%,41,41,02:48:49,85
+female,18-24,New Visitor,Direct,Germany,US$0.00,46,25,54.35%,1,2.17%,0,0.00%,46,46,01:13:00,132
+female,18-24,New Visitor,Direct,Spain,US$0.00,51,31,60.78%,0,0.00%,0,0.00%,51,51,02:12:46,115
+female,18-24,New Visitor,Direct,France,US$0.00,124,71,57.26%,0,0.00%,0,0.00%,124,124,06:21:04,301
+female,18-24,New Visitor,Direct,Hong Kong,US$0.00,17,13,76.47%,0,0.00%,0,0.00%,16,17,00:57:33,34
+female,18-24,New Visitor,Direct,Indonesia,US$0.00,90,46,51.11%,1,1.11%,0,0.00%,90,90,07:11:54,271
+female,18-24,New Visitor,Direct,Ireland,US$0.00,15,7,46.67%,0,0.00%,0,0.00%,15,15,00:57:30,50
+female,18-24,New Visitor,Direct,India,US$0.00,287,159,55.40%,2,0.70%,0,0.00%,285,287,08:39:06,828
+female,18-24,New Visitor,Direct,Italy,US$0.00,32,20,62.50%,2,6.25%,0,0.00%,32,32,00:27:54,80
+female,18-24,New Visitor,Direct,Japan,US$0.00,34,22,64.71%,0,0.00%,0,0.00%,34,34,00:29:21,61
+female,18-24,New Visitor,Direct,South Korea,US$0.00,37,21,56.76%,0,0.00%,0,0.00%,37,37,01:15:30,91
+female,18-24,New Visitor,Direct,Mexico,US$0.00,27,13,48.15%,0,0.00%,0,0.00%,27,27,01:43:14,150
+female,18-24,New Visitor,Direct,Malaysia,US$0.00,15,12,80.00%,0,0.00%,0,0.00%,15,15,00:34:18,20
+female,18-24,New Visitor,Direct,Netherlands,US$0.00,19,15,78.95%,1,5.26%,0,0.00%,19,19,00:10:47,47
+female,18-24,New Visitor,Direct,Peru,US$0.00,27,20,74.07%,0,0.00%,0,0.00%,27,27,01:24:49,67
+female,18-24,New Visitor,Direct,Philippines,US$0.00,26,16,61.54%,0,0.00%,0,0.00%,26,26,00:59:05,52
+female,18-24,New Visitor,Direct,Poland,US$0.00,16,7,43.75%,0,0.00%,0,0.00%,16,16,00:55:42,62
+female,18-24,New Visitor,Direct,Russia,US$0.00,25,14,56.00%,1,4.00%,0,0.00%,25,25,00:41:22,56
+female,18-24,New Visitor,Direct,Sweden,US$0.00,14,6,42.86%,0,0.00%,0,0.00%,14,14,01:56:50,61
+female,18-24,New Visitor,Direct,Singapore,US$0.00,48,22,45.83%,1,2.08%,0,0.00%,47,48,02:30:43,150
+female,18-24,New Visitor,Direct,Thailand,US$0.00,12,10,83.33%,0,0.00%,0,0.00%,12,12,00:09:45,20
+female,18-24,New Visitor,Direct,Taiwan,US$0.00,51,29,56.86%,1,1.96%,0,0.00%,50,51,02:00:00,169
+female,18-24,New Visitor,Direct,Vietnam,US$0.00,17,11,64.71%,0,0.00%,0,0.00%,17,17,00:05:54,23
+female,18-24,New Visitor,Paid Search,Canada,US$0.00,11,10,90.91%,0,0.00%,0,0.00%,11,11,00:00:00,12
+female,18-24,New Visitor,Paid Search,United States,US$0.00,62,38,61.29%,0,0.00%,0,0.00%,62,62,01:53:54,175
+female,18-24,Returning Visitor,Direct,Australia,US$0.00,203,80,39.41%,3,1.48%,0,0.00%,42,0,22:27:25,720
+female,18-24,Returning Visitor,Direct,Colombia,US$0.00,25,13,52.00%,1,4.00%,0,0.00%,17,0,03:20:19,128
+female,18-24,Returning Visitor,Direct,Spain,US$0.00,38,20,52.63%,1,2.63%,0,0.00%,19,0,02:32:57,132
+female,18-24,Returning Visitor,Direct,France,US$0.00,49,27,55.10%,0,0.00%,0,0.00%,32,0,03:48:01,134
+female,18-24,Returning Visitor,Direct,United Kingdom,US$0.00,50,13,26.00%,2,4.00%,0,0.00%,35,0,04:43:58,308
+female,18-24,Returning Visitor,Direct,Indonesia,US$0.00,91,43,47.25%,1,1.10%,0,0.00%,48,0,04:39:09,274
+female,18-24,Returning Visitor,Direct,India,US$0.00,57,35,61.40%,1,1.75%,0,0.00%,43,0,02:06:25,148
+female,18-24,Returning Visitor,Direct,Italy,US$0.00,17,7,41.18%,0,0.00%,0,0.00%,10,0,01:39:30,99
+female,18-24,Returning Visitor,Direct,South Korea,US$0.00,20,10,50.00%,0,0.00%,0,0.00%,14,0,00:26:07,37
+female,18-24,Returning Visitor,Direct,Mexico,US$0.00,37,8,21.62%,0,0.00%,0,0.00%,19,0,05:45:40,230
+female,18-24,Returning Visitor,Direct,Taiwan,US$0.00,20,12,60.00%,1,5.00%,0,0.00%,13,0,02:37:20,100
+female,25-34,New Visitor,Direct,Argentina,US$0.00,22,16,72.73%,0,0.00%,0,0.00%,22,22,00:39:40,38
+female,25-34,New Visitor,Direct,Australia,US$0.00,36,17,47.22%,1,2.78%,0,0.00%,36,36,02:45:42,157
+female,25-34,New Visitor,Direct,Belgium,US$0.00,17,9,52.94%,0,0.00%,0,0.00%,17,17,00:08:12,28
+female,25-34,New Visitor,Direct,Brazil,US$0.00,72,43,59.72%,1,1.39%,0,0.00%,72,72,02:47:23,202
+female,25-34,New Visitor,Direct,Canada,US$0.00,105,53,50.48%,3,2.86%,0,0.00%,105,105,06:19:16,478
+female,25-34,New Visitor,Direct,Switzerland,US$0.00,16,6,37.50%,1,6.25%,0,0.00%,16,16,00:27:49,69
+female,25-34,New Visitor,Direct,Chile,US$0.00,10,4,40.00%,0,0.00%,0,0.00%,10,10,01:08:39,44
+female,25-34,New Visitor,Direct,China,US$0.00,38,24,63.16%,1,2.63%,0,0.00%,38,38,00:55:30,101
+female,25-34,New Visitor,Direct,Colombia,US$0.00,40,23,57.50%,2,5.00%,0,0.00%,40,40,02:33:58,104
+female,25-34,New Visitor,Direct,Germany,US$0.00,60,29,48.33%,3,5.00%,0,0.00%,60,60,02:55:15,226
+female,25-34,New Visitor,Direct,Denmark,US$0.00,19,13,68.42%,0,0.00%,0,0.00%,19,19,00:24:57,41
+female,25-34,New Visitor,Direct,France,US$0.00,66,41,62.12%,0,0.00%,0,0.00%,66,66,03:09:55,124
+female,25-34,New Visitor,Direct,Hong Kong,US$0.00,31,18,58.06%,0,0.00%,0,0.00%,31,31,00:51:10,86
+female,25-34,New Visitor,Direct,Indonesia,US$0.00,68,31,45.59%,2,2.94%,0,0.00%,68,68,04:58:32,289
+female,25-34,New Visitor,Direct,Ireland,US$0.00,32,18,56.25%,0,0.00%,0,0.00%,32,32,00:52:59,129
+female,25-34,New Visitor,Direct,Israel,US$0.00,12,6,50.00%,0,0.00%,0,0.00%,12,12,00:17:08,38
+female,25-34,New Visitor,Direct,India,US$0.00,234,138,58.97%,3,1.28%,0,0.00%,234,234,06:31:27,643
+female,25-34,New Visitor,Direct,Italy,US$0.00,33,21,63.64%,0,0.00%,0,0.00%,33,33,01:21:08,64
+female,25-34,New Visitor,Direct,Japan,US$0.00,68,39,57.35%,3,4.41%,0,0.00%,68,68,03:13:12,252
+female,25-34,New Visitor,Direct,South Korea,US$0.00,97,50,51.55%,1,1.03%,0,0.00%,97,97,04:23:45,364
+female,25-34,New Visitor,Direct,Mexico,US$0.00,29,15,51.72%,1,3.45%,0,0.00%,29,29,01:50:24,119
+female,25-34,New Visitor,Direct,Malaysia,US$0.00,11,8,72.73%,0,0.00%,0,0.00%,11,11,00:17:41,22
+female,25-34,New Visitor,Direct,Netherlands,US$0.00,31,16,51.61%,2,6.45%,0,0.00%,31,31,01:26:01,104
+female,25-34,New Visitor,Direct,Peru,US$0.00,46,34,73.91%,1,2.17%,0,0.00%,46,46,01:14:13,73
+female,25-34,New Visitor,Direct,Philippines,US$0.00,29,14,48.28%,0,0.00%,0,0.00%,29,29,00:44:09,77
+female,25-34,New Visitor,Direct,Pakistan,US$0.00,10,8,80.00%,0,0.00%,0,0.00%,10,10,00:02:31,16
+female,25-34,New Visitor,Direct,Poland,US$0.00,35,19,54.29%,1,2.86%,0,0.00%,35,35,02:05:49,146
+female,25-34,New Visitor,Direct,Portugal,US$0.00,15,11,73.33%,0,0.00%,0,0.00%,15,15,00:14:51,38
+female,25-34,New Visitor,Direct,Russia,US$0.00,32,19,59.38%,3,9.38%,0,0.00%,32,32,03:51:16,173
+female,25-34,New Visitor,Direct,Sweden,US$0.00,28,11,39.29%,0,0.00%,0,0.00%,28,28,03:13:49,108
+female,25-34,New Visitor,Direct,Singapore,US$0.00,78,44,56.41%,2,2.56%,0,0.00%,78,78,03:02:10,246
+female,25-34,New Visitor,Direct,Thailand,US$0.00,29,15,51.72%,1,3.45%,0,0.00%,29,29,03:49:30,176
+female,25-34,New Visitor,Direct,Türkiye,US$0.00,11,7,63.64%,0,0.00%,0,0.00%,11,11,00:10:34,17
+female,25-34,New Visitor,Direct,Taiwan,US$0.00,60,32,53.33%,2,3.33%,0,0.00%,60,60,02:33:49,228
+female,25-34,New Visitor,Direct,Ukraine,US$0.00,23,13,56.52%,0,0.00%,0,0.00%,23,23,01:30:10,83
+female,25-34,New Visitor,Direct,Vietnam,US$0.00,19,9,47.37%,0,0.00%,0,0.00%,19,19,01:02:25,62
+female,25-34,New Visitor,Paid Search,Canada,US$0.00,27,20,74.07%,0,0.00%,0,0.00%,27,27,00:10:39,51
+female,25-34,Returning Visitor,Direct,Brazil,US$0.00,17,10,58.82%,1,5.88%,0,0.00%,12,0,01:34:16,49
+female,25-34,Returning Visitor,Direct,Colombia,US$0.00,29,14,48.28%,2,6.90%,0,0.00%,13,0,04:03:15,152
+female,25-34,Returning Visitor,Direct,Spain,US$0.00,32,15,46.88%,5,15.62%,0,0.00%,20,0,03:38:13,156
+female,25-34,Returning Visitor,Direct,France,US$0.00,23,12,52.17%,2,8.70%,0,0.00%,14,0,04:38:20,110
+female,25-34,Returning Visitor,Direct,Indonesia,US$0.00,62,32,51.61%,2,3.23%,0,0.00%,37,0,06:22:58,326
+female,25-34,Returning Visitor,Direct,Ireland,US$0.00,28,15,53.57%,0,0.00%,0,0.00%,16,0,01:16:30,95
+female,25-34,Returning Visitor,Direct,Japan,US$0.00,23,9,39.13%,0,0.00%,0,0.00%,17,0,01:11:53,66
+female,25-34,Returning Visitor,Direct,South Korea,US$0.00,48,22,45.83%,2,4.17%,0,0.00%,28,0,05:50:15,309
+female,25-34,Returning Visitor,Direct,Mexico,US$0.00,33,6,18.18%,2,6.06%,0,0.00%,15,0,05:06:13,196
+female,25-34,Returning Visitor,Direct,Peru,US$0.00,31,20,64.52%,1,3.23%,0,0.00%,14,0,01:15:17,56
+female,25-34,Returning Visitor,Direct,Sweden,US$0.00,20,5,25.00%,2,10.00%,0,0.00%,13,0,03:03:59,136
+female,25-34,Returning Visitor,Direct,Taiwan,US$0.00,26,11,42.31%,2,7.69%,0,0.00%,18,0,03:33:48,137
+female,35-44,New Visitor,Direct,Argentina,US$0.00,18,6,33.33%,0,0.00%,0,0.00%,18,18,00:54:04,46
+female,35-44,New Visitor,Direct,Australia,US$0.00,23,13,56.52%,0,0.00%,0,0.00%,23,23,00:14:04,51
+female,35-44,New Visitor,Direct,Belgium,US$0.00,10,6,60.00%,0,0.00%,0,0.00%,10,10,00:24:25,18
+female,35-44,New Visitor,Direct,Brazil,US$0.00,21,13,61.90%,1,4.76%,0,0.00%,21,21,00:57:25,51
+female,35-44,New Visitor,Direct,Colombia,US$0.00,18,9,50.00%,0,0.00%,0,0.00%,18,18,00:40:17,47
+female,35-44,New Visitor,Direct,Germany,US$0.00,20,11,55.00%,0,0.00%,0,0.00%,20,20,01:04:19,76
+female,35-44,New Visitor,Direct,Spain,US$0.00,45,22,48.89%,1,2.22%,0,0.00%,45,45,01:05:26,102
+female,35-44,New Visitor,Direct,France,US$0.00,17,10,58.82%,0,0.00%,0,0.00%,17,17,01:13:48,77
+female,35-44,New Visitor,Direct,Indonesia,US$0.00,21,8,38.10%,1,4.76%,0,0.00%,21,21,01:52:26,64
+female,35-44,New Visitor,Direct,Ireland,US$0.00,15,9,60.00%,0,0.00%,0,0.00%,15,15,00:29:38,35
+female,35-44,New Visitor,Direct,India,US$0.00,83,53,63.86%,0,0.00%,0,0.00%,83,83,01:16:53,165
+female,35-44,New Visitor,Direct,Italy,US$0.00,14,9,64.29%,0,0.00%,0,0.00%,14,14,00:24:48,19
+female,35-44,New Visitor,Direct,Japan,US$0.00,29,19,65.52%,0,0.00%,0,0.00%,29,29,00:47:15,52
+female,35-44,New Visitor,Direct,South Korea,US$0.00,29,13,44.83%,1,3.45%,0,0.00%,29,29,01:07:53,101
+female,35-44,New Visitor,Direct,Mexico,US$0.00,19,10,52.63%,1,5.26%,0,0.00%,19,19,01:07:30,80
+female,35-44,New Visitor,Direct,Malaysia,US$0.00,14,10,71.43%,0,0.00%,0,0.00%,14,14,00:50:20,23
+female,35-44,New Visitor,Direct,Netherlands,US$0.00,12,9,75.00%,0,0.00%,0,0.00%,12,12,00:35:47,19
+female,35-44,New Visitor,Direct,Peru,US$0.00,14,10,71.43%,0,0.00%,0,0.00%,14,14,00:06:05,18
+female,35-44,New Visitor,Direct,Philippines,US$0.00,13,7,53.85%,1,7.69%,0,0.00%,13,13,00:19:09,52
+female,35-44,New Visitor,Direct,Pakistan,US$0.00,10,7,70.00%,0,0.00%,0,0.00%,10,10,00:07:43,13
+female,35-44,New Visitor,Direct,Poland,US$0.00,10,5,50.00%,0,0.00%,0,0.00%,10,10,00:11:07,27
+female,35-44,New Visitor,Direct,Russia,US$0.00,15,7,46.67%,1,6.67%,0,0.00%,15,15,01:45:27,68
+female,35-44,New Visitor,Direct,Thailand,US$0.00,13,6,46.15%,0,0.00%,0,0.00%,13,13,00:30:17,50
+female,35-44,New Visitor,Direct,Taiwan,US$0.00,58,32,55.17%,0,0.00%,0,0.00%,57,58,02:09:47,136
+female,35-44,New Visitor,Paid Search,Canada,US$0.00,14,14,100.00%,0,0.00%,0,0.00%,14,14,00:00:00,14
+female,35-44,Returning Visitor,Direct,Canada,US$0.00,19,5,26.32%,0,0.00%,0,0.00%,13,0,00:33:12,83
+female,35-44,Returning Visitor,Direct,Spain,US$0.00,24,11,45.83%,1,4.17%,0,0.00%,16,0,00:19:29,66
+female,35-44,Returning Visitor,Direct,Indonesia,US$0.00,26,13,50.00%,0,0.00%,0,0.00%,16,0,01:09:11,64
+female,35-44,Returning Visitor,Direct,India,US$0.00,21,12,57.14%,0,0.00%,0,0.00%,15,0,00:58:12,66
+female,35-44,Returning Visitor,Direct,Japan,US$0.00,27,12,44.44%,0,0.00%,0,0.00%,14,0,01:36:40,120
+female,35-44,Returning Visitor,Direct,Singapore,US$0.00,35,17,48.57%,0,0.00%,0,0.00%,23,0,02:40:06,97
+female,35-44,Returning Visitor,Direct,Taiwan,US$0.00,21,11,52.38%,0,0.00%,0,0.00%,16,0,01:10:32,71
+female,45-54,New Visitor,Direct,Belgium,US$0.00,16,12,75.00%,0,0.00%,0,0.00%,16,16,00:32:51,25
+female,45-54,New Visitor,Direct,Brazil,US$0.00,15,6,40.00%,0,0.00%,0,0.00%,15,15,01:04:19,82
+female,45-54,New Visitor,Direct,Canada,US$0.00,39,25,64.10%,1,2.56%,0,0.00%,39,39,00:20:18,80
+female,45-54,New Visitor,Direct,Switzerland,US$0.00,13,7,53.85%,0,0.00%,0,0.00%,13,13,00:35:39,38
+female,45-54,New Visitor,Direct,Colombia,US$0.00,13,5,38.46%,0,0.00%,0,0.00%,13,13,01:10:19,43
+female,45-54,New Visitor,Direct,Germany,US$0.00,10,6,60.00%,0,0.00%,0,0.00%,10,10,00:03:44,16
+female,45-54,New Visitor,Direct,Spain,US$0.00,73,47,64.38%,0,0.00%,0,0.00%,73,73,02:07:25,153
+female,45-54,New Visitor,Direct,France,US$0.00,17,10,58.82%,0,0.00%,0,0.00%,17,17,00:48:52,52
+female,45-54,New Visitor,Direct,United Kingdom,US$0.00,33,15,45.45%,1,3.03%,0,0.00%,33,33,01:33:04,127
+female,45-54,New Visitor,Direct,Indonesia,US$0.00,17,9,52.94%,0,0.00%,0,0.00%,17,17,00:15:18,30
+female,45-54,New Visitor,Direct,Ireland,US$0.00,15,7,46.67%,0,0.00%,0,0.00%,15,15,00:16:01,54
+female,45-54,New Visitor,Direct,India,US$0.00,43,19,44.19%,1,2.33%,0,0.00%,43,43,02:09:55,211
+female,45-54,New Visitor,Direct,Japan,US$0.00,12,8,66.67%,0,0.00%,0,0.00%,12,12,00:16:31,39
+female,45-54,New Visitor,Direct,South Korea,US$0.00,27,16,59.26%,0,0.00%,0,0.00%,27,27,00:29:55,51
+female,45-54,New Visitor,Direct,Mexico,US$0.00,14,9,64.29%,0,0.00%,0,0.00%,14,14,00:26:02,33
+female,45-54,New Visitor,Direct,Malaysia,US$0.00,14,10,71.43%,0,0.00%,0,0.00%,14,14,00:22:28,30
+female,45-54,New Visitor,Direct,Netherlands,US$0.00,15,7,46.67%,0,0.00%,0,0.00%,15,15,00:39:02,40
+female,45-54,New Visitor,Direct,Poland,US$0.00,14,9,64.29%,0,0.00%,0,0.00%,14,14,00:04:55,26
+female,45-54,New Visitor,Direct,Russia,US$0.00,13,9,69.23%,0,0.00%,0,0.00%,13,13,00:05:52,22
+female,45-54,New Visitor,Direct,Sweden,US$0.00,22,11,50.00%,1,4.55%,0,0.00%,22,22,01:33:05,81
+female,45-54,New Visitor,Direct,Singapore,US$0.00,35,18,51.43%,2,5.71%,0,0.00%,35,35,03:02:58,133
+female,45-54,New Visitor,Direct,Taiwan,US$0.00,31,13,41.94%,0,0.00%,0,0.00%,31,31,01:11:46,99
+female,45-54,New Visitor,Paid Search,Canada,US$0.00,13,11,84.62%,0,0.00%,0,0.00%,13,13,00:00:42,16
+female,45-54,New Visitor,Paid Search,United States,US$0.00,45,25,55.56%,1,2.22%,0,0.00%,45,45,02:03:21,162
+female,45-54,Returning Visitor,Direct,Canada,US$0.00,17,7,41.18%,0,0.00%,0,0.00%,11,0,00:23:09,66
+female,45-54,Returning Visitor,Direct,Spain,US$0.00,46,14,30.43%,1,2.17%,0,0.00%,24,0,03:05:25,215
+female,45-54,Returning Visitor,Direct,Indonesia,US$0.00,22,8,36.36%,0,0.00%,0,0.00%,14,0,01:24:19,85
+female,45-54,Returning Visitor,Direct,South Korea,US$0.00,19,10,52.63%,0,0.00%,0,0.00%,14,0,00:27:09,33
+female,45-54,Returning Visitor,Direct,Singapore,US$0.00,15,9,60.00%,1,6.67%,0,0.00%,11,0,00:36:28,36
+female,55-64,New Visitor,Direct,Canada,US$0.00,20,12,60.00%,0,0.00%,0,0.00%,20,20,00:14:09,50
+female,55-64,New Visitor,Direct,Spain,US$0.00,40,27,67.50%,0,0.00%,0,0.00%,40,40,00:22:00,71
+female,55-64,New Visitor,Direct,India,US$0.00,14,7,50.00%,0,0.00%,0,0.00%,13,14,00:26:11,42
+female,55-64,New Visitor,Direct,Singapore,US$0.00,12,7,58.33%,0,0.00%,0,0.00%,12,12,01:13:34,51
+female,55-64,New Visitor,Direct,Taiwan,US$0.00,25,15,60.00%,0,0.00%,0,0.00%,25,25,00:22:40,57
+female,55-64,New Visitor,Paid Search,Canada,US$0.00,13,9,69.23%,0,0.00%,0,0.00%,13,13,00:07:15,28
+female,55-64,New Visitor,Paid Search,United States,US$0.00,48,37,77.08%,0,0.00%,0,0.00%,48,48,01:18:39,132
+female,55-64,Returning Visitor,Direct,Spain,US$0.00,17,14,82.35%,0,0.00%,0,0.00%,10,0,00:15:37,32
+female,65+,New Visitor,Direct,Spain,US$0.00,17,10,58.82%,1,5.88%,0,0.00%,17,17,00:04:05,28
+female,65+,New Visitor,Direct,Netherlands,US$0.00,10,7,70.00%,0,0.00%,0,0.00%,10,10,00:17:25,23
+female,65+,New Visitor,Direct,Sweden,US$0.00,10,4,40.00%,0,0.00%,0,0.00%,10,10,00:58:28,31
+female,65+,New Visitor,Direct,Singapore,US$0.00,15,8,53.33%,2,13.33%,0,0.00%,15,15,01:29:29,68
+female,65+,New Visitor,Paid Search,United States,US$0.00,30,20,66.67%,0,0.00%,0,0.00%,30,30,00:19:58,55
+female,65+,Returning Visitor,Direct,Spain,US$0.00,36,11,30.56%,0,0.00%,0,0.00%,10,0,04:42:18,156
+male,18-24,New Visitor,Direct,Australia,US$0.00,41,26,63.41%,1,2.44%,0,0.00%,41,41,01:14:57,106
+male,18-24,New Visitor,Direct,Bangladesh,US$0.00,18,8,44.44%,2,11.11%,0,0.00%,18,18,00:19:15,63
+male,18-24,New Visitor,Direct,Belgium,US$0.00,14,10,71.43%,0,0.00%,0,0.00%,14,14,00:28:12,38
+male,18-24,New Visitor,Direct,Brazil,US$0.00,48,28,58.33%,2,4.17%,0,0.00%,48,48,01:42:06,131
+male,18-24,New Visitor,Direct,China,US$0.00,75,57,76.00%,0,0.00%,0,0.00%,74,75,00:30:50,125
+male,18-24,New Visitor,Direct,Colombia,US$0.00,17,13,76.47%,0,0.00%,0,0.00%,17,17,00:07:25,25
+male,18-24,New Visitor,Direct,Germany,US$0.00,71,49,69.01%,1,1.41%,0,0.00%,71,71,01:12:48,165
+male,18-24,New Visitor,Direct,Denmark,US$0.00,11,6,54.55%,0,0.00%,0,0.00%,11,11,00:03:50,17
+male,18-24,New Visitor,Direct,Egypt,US$0.00,10,6,60.00%,0,0.00%,0,0.00%,10,10,00:15:35,32
+male,18-24,New Visitor,Direct,Spain,US$0.00,20,16,80.00%,0,0.00%,0,0.00%,20,20,00:03:18,32
+male,18-24,New Visitor,Direct,France,US$0.00,109,78,71.56%,0,0.00%,0,0.00%,109,109,02:27:00,201
+male,18-24,New Visitor,Direct,United Kingdom,US$0.00,113,54,47.79%,1,0.88%,0,0.00%,113,113,04:18:32,437
+male,18-24,New Visitor,Direct,Hong Kong,US$0.00,22,19,86.36%,0,0.00%,0,0.00%,22,22,00:16:05,30
+male,18-24,New Visitor,Direct,Indonesia,US$0.00,63,32,50.79%,1,1.59%,0,0.00%,63,63,03:27:23,153
+male,18-24,New Visitor,Direct,Ireland,US$0.00,14,11,78.57%,0,0.00%,0,0.00%,14,14,00:27:36,37
+male,18-24,New Visitor,Direct,India,US$0.00,502,260,51.79%,5,1.00%,0,0.00%,502,502,15:00:47,"1,462"
+male,18-24,New Visitor,Direct,Italy,US$0.00,51,38,74.51%,2,3.92%,0,0.00%,51,51,01:43:45,112
+male,18-24,New Visitor,Direct,Japan,US$0.00,79,46,58.23%,0,0.00%,0,0.00%,79,79,02:22:02,267
+male,18-24,New Visitor,Direct,South Korea,US$0.00,38,18,47.37%,0,0.00%,0,0.00%,38,38,01:59:47,140
+male,18-24,New Visitor,Direct,Sri Lanka,US$0.00,12,5,41.67%,0,0.00%,0,0.00%,12,12,00:29:29,41
+male,18-24,New Visitor,Direct,Mexico,US$0.00,20,12,60.00%,0,0.00%,0,0.00%,20,20,00:10:07,45
+male,18-24,New Visitor,Direct,Netherlands,US$0.00,18,12,66.67%,0,0.00%,0,0.00%,18,18,00:47:32,40
+male,18-24,New Visitor,Direct,Peru,US$0.00,20,11,55.00%,0,0.00%,0,0.00%,20,20,00:23:42,64
+male,18-24,New Visitor,Direct,Philippines,US$0.00,16,10,62.50%,0,0.00%,0,0.00%,16,16,00:37:55,45
+male,18-24,New Visitor,Direct,Pakistan,US$0.00,35,18,51.43%,2,5.71%,0,0.00%,35,35,01:34:03,95
+male,18-24,New Visitor,Direct,Poland,US$0.00,22,13,59.09%,0,0.00%,0,0.00%,22,22,00:18:20,54
+male,18-24,New Visitor,Direct,Russia,US$0.00,19,10,52.63%,0,0.00%,0,0.00%,19,19,00:28:49,38
+male,18-24,New Visitor,Direct,Singapore,US$0.00,16,13,81.25%,0,0.00%,0,0.00%,16,16,00:00:41,21
+male,18-24,New Visitor,Direct,Thailand,US$0.00,11,5,45.45%,0,0.00%,0,0.00%,10,11,00:33:18,28
+male,18-24,New Visitor,Direct,Türkiye,US$0.00,12,9,75.00%,0,0.00%,0,0.00%,12,12,00:04:38,22
+male,18-24,New Visitor,Direct,Taiwan,US$0.00,28,15,53.57%,0,0.00%,0,0.00%,28,28,02:03:59,125
+male,18-24,New Visitor,Direct,Ukraine,US$0.00,13,10,76.92%,1,7.69%,0,0.00%,13,13,00:22:48,126
+male,18-24,New Visitor,Direct,Vietnam,US$0.00,12,8,66.67%,0,0.00%,0,0.00%,12,12,00:18:13,17
+male,18-24,New Visitor,Paid Search,Canada,US$0.00,36,29,80.56%,0,0.00%,0,0.00%,36,36,00:02:46,46
+male,18-24,Returning Visitor,Direct,Australia,US$0.00,51,18,35.29%,4,7.84%,0,0.00%,17,0,08:19:27,260
+male,18-24,Returning Visitor,Direct,Canada,US$0.00,52,17,32.69%,3,5.77%,0,0.00%,34,0,05:23:38,337
+male,18-24,Returning Visitor,Direct,Germany,US$0.00,19,9,47.37%,0,0.00%,0,0.00%,14,0,00:35:40,49
+male,18-24,Returning Visitor,Direct,France,US$0.00,43,28,65.12%,1,2.33%,0,0.00%,33,0,01:32:58,97
+male,18-24,Returning Visitor,Direct,United Kingdom,US$0.00,69,28,40.58%,3,4.35%,0,0.00%,36,0,04:02:56,370
+male,18-24,Returning Visitor,Direct,Indonesia,US$0.00,22,10,45.45%,1,4.55%,0,0.00%,14,0,02:16:59,83
+male,18-24,Returning Visitor,Direct,India,US$0.00,107,49,45.79%,3,2.80%,0,0.00%,78,0,06:37:00,472
+male,18-24,Returning Visitor,Direct,Japan,US$0.00,28,13,46.43%,1,3.57%,0,0.00%,17,0,04:59:44,141
+male,18-24,Returning Visitor,Direct,South Korea,US$0.00,12,7,58.33%,0,0.00%,0,0.00%,11,0,00:08:06,27
+male,25-34,New Visitor,Direct,United Arab Emirates,US$0.00,12,5,41.67%,0,0.00%,0,0.00%,12,12,00:23:51,30
+male,25-34,New Visitor,Direct,Austria,US$0.00,12,8,66.67%,0,0.00%,0,0.00%,12,12,00:04:20,23
+male,25-34,New Visitor,Direct,Australia,US$0.00,58,35,60.34%,0,0.00%,0,0.00%,58,58,01:39:01,132
+male,25-34,New Visitor,Direct,Bangladesh,US$0.00,12,6,50.00%,0,0.00%,0,0.00%,12,12,00:43:17,32
+male,25-34,New Visitor,Direct,Belgium,US$0.00,15,9,60.00%,0,0.00%,0,0.00%,15,15,00:10:23,39
+male,25-34,New Visitor,Direct,Brazil,US$0.00,99,52,52.53%,0,0.00%,0,0.00%,99,99,02:30:49,281
+male,25-34,New Visitor,Direct,Switzerland,US$0.00,30,12,40.00%,1,3.33%,0,0.00%,30,30,00:40:46,102
+male,25-34,New Visitor,Direct,Chile,US$0.00,12,5,41.67%,0,0.00%,0,0.00%,12,12,00:07:55,29
+male,25-34,New Visitor,Direct,China,US$0.00,81,55,67.90%,0,0.00%,0,0.00%,81,81,01:22:41,167
+male,25-34,New Visitor,Direct,Colombia,US$0.00,28,20,71.43%,0,0.00%,0,0.00%,28,28,00:04:21,39
+male,25-34,New Visitor,Direct,Germany,US$0.00,103,61,59.22%,3,2.91%,0,0.00%,103,103,04:07:23,352
+male,25-34,New Visitor,Direct,Denmark,US$0.00,11,9,81.82%,1,9.09%,0,0.00%,11,11,00:06:40,19
+male,25-34,New Visitor,Direct,Egypt,US$0.00,12,7,58.33%,0,0.00%,0,0.00%,12,12,00:12:45,28
+male,25-34,New Visitor,Direct,Spain,US$0.00,55,34,61.82%,2,3.64%,0,0.00%,55,55,01:47:05,161
+male,25-34,New Visitor,Direct,Finland,US$0.00,13,5,38.46%,0,0.00%,0,0.00%,13,13,00:07:11,32
+male,25-34,New Visitor,Direct,France,US$0.00,86,48,55.81%,0,0.00%,0,0.00%,86,86,02:45:15,201
+male,25-34,New Visitor,Direct,Hong Kong,US$0.00,37,18,48.65%,0,0.00%,0,0.00%,37,37,00:27:34,84
+male,25-34,New Visitor,Direct,Indonesia,US$0.00,66,36,54.55%,1,1.52%,0,0.00%,66,66,02:06:58,153
+male,25-34,New Visitor,Direct,Ireland,US$0.00,16,8,50.00%,0,0.00%,0,0.00%,16,16,00:45:53,60
+male,25-34,New Visitor,Direct,Israel,US$0.00,10,5,50.00%,0,0.00%,0,0.00%,10,10,00:12:45,26
+male,25-34,New Visitor,Direct,India,US$0.00,485,244,50.31%,5,1.03%,0,0.00%,483,485,13:07:32,"1,503"
+male,25-34,New Visitor,Direct,Italy,US$0.00,69,39,56.52%,0,0.00%,0,0.00%,69,69,02:25:06,268
+male,25-34,New Visitor,Direct,Japan,US$0.00,157,85,54.14%,2,1.27%,0,0.00%,157,157,05:09:14,459
+male,25-34,New Visitor,Direct,South Korea,US$0.00,96,50,52.08%,2,2.08%,0,0.00%,96,96,03:17:10,296
+male,25-34,New Visitor,Direct,Sri Lanka,US$0.00,20,6,30.00%,2,10.00%,0,0.00%,20,20,00:54:29,101
+male,25-34,New Visitor,Direct,Mexico,US$0.00,54,22,40.74%,1,1.85%,0,0.00%,54,54,03:17:42,235
+male,25-34,New Visitor,Direct,Malaysia,US$0.00,19,13,68.42%,0,0.00%,0,0.00%,19,19,01:28:18,44
+male,25-34,New Visitor,Direct,Netherlands,US$0.00,46,20,43.48%,0,0.00%,0,0.00%,46,46,01:54:20,119
+male,25-34,New Visitor,Direct,Peru,US$0.00,14,8,57.14%,1,7.14%,0,0.00%,14,14,00:16:53,45
+male,25-34,New Visitor,Direct,Philippines,US$0.00,19,13,68.42%,0,0.00%,0,0.00%,19,19,00:10:47,44
+male,25-34,New Visitor,Direct,Pakistan,US$0.00,22,8,36.36%,0,0.00%,0,0.00%,22,22,01:01:29,186
+male,25-34,New Visitor,Direct,Poland,US$0.00,43,25,58.14%,0,0.00%,0,0.00%,43,43,00:55:41,106
+male,25-34,New Visitor,Direct,Portugal,US$0.00,12,7,58.33%,0,0.00%,0,0.00%,12,12,00:15:02,30
+male,25-34,New Visitor,Direct,Romania,US$0.00,13,8,61.54%,0,0.00%,0,0.00%,13,13,00:57:02,77
+male,25-34,New Visitor,Direct,Russia,US$0.00,49,26,53.06%,1,2.04%,0,0.00%,49,49,01:30:50,148
+male,25-34,New Visitor,Direct,Saudi Arabia,US$0.00,13,4,30.77%,0,0.00%,0,0.00%,13,13,00:29:50,42
+male,25-34,New Visitor,Direct,Sweden,US$0.00,19,4,21.05%,1,5.26%,0,0.00%,19,19,01:05:52,164
+male,25-34,New Visitor,Direct,Singapore,US$0.00,56,27,48.21%,1,1.79%,0,0.00%,55,56,01:41:06,150
+male,25-34,New Visitor,Direct,Thailand,US$0.00,25,13,52.00%,0,0.00%,0,0.00%,25,25,01:02:08,60
+male,25-34,New Visitor,Direct,Türkiye,US$0.00,27,18,66.67%,0,0.00%,0,0.00%,27,27,00:37:32,80
+male,25-34,New Visitor,Direct,Taiwan,US$0.00,44,24,54.55%,1,2.27%,0,0.00%,44,44,01:46:29,135
+male,25-34,New Visitor,Direct,Ukraine,US$0.00,17,9,52.94%,1,5.88%,0,0.00%,17,17,00:32:32,56
+male,25-34,New Visitor,Direct,Vietnam,US$0.00,26,15,57.69%,1,3.85%,0,0.00%,26,26,01:26:34,164
+male,25-34,New Visitor,Paid Search,Canada,US$0.00,21,18,85.71%,0,0.00%,0,0.00%,21,21,00:12:04,38
+male,25-34,Returning Visitor,Direct,Australia,US$0.00,21,13,61.90%,0,0.00%,0,0.00%,14,0,00:34:12,57
+male,25-34,Returning Visitor,Direct,Brazil,US$0.00,24,14,58.33%,1,4.17%,0,0.00%,16,0,00:51:47,56
+male,25-34,Returning Visitor,Direct,Colombia,US$0.00,16,9,56.25%,1,6.25%,0,0.00%,12,0,00:29:07,55
+male,25-34,Returning Visitor,Direct,Germany,US$0.00,23,12,52.17%,0,0.00%,0,0.00%,18,0,01:48:14,65
+male,25-34,Returning Visitor,Direct,Spain,US$0.00,26,19,73.08%,0,0.00%,0,0.00%,16,0,00:58:38,43
+male,25-34,Returning Visitor,Direct,France,US$0.00,58,26,44.83%,2,3.45%,0,0.00%,24,0,07:46:55,238
+male,25-34,Returning Visitor,Direct,Indonesia,US$0.00,60,30,50.00%,1,1.67%,0,0.00%,29,0,02:51:37,158
+male,25-34,Returning Visitor,Direct,Italy,US$0.00,16,10,62.50%,1,6.25%,0,0.00%,13,0,00:31:52,36
+male,25-34,Returning Visitor,Direct,Japan,US$0.00,67,35,52.24%,3,4.48%,0,0.00%,42,0,02:59:22,276
+male,25-34,Returning Visitor,Direct,South Korea,US$0.00,39,16,41.03%,0,0.00%,0,0.00%,23,0,03:19:25,214
+male,25-34,Returning Visitor,Direct,Mexico,US$0.00,45,22,48.89%,0,0.00%,0,0.00%,18,0,03:24:40,136
+male,25-34,Returning Visitor,Direct,Netherlands,US$0.00,21,13,61.90%,0,0.00%,0,0.00%,12,0,02:16:54,97
+male,25-34,Returning Visitor,Direct,Poland,US$0.00,19,10,52.63%,0,0.00%,0,0.00%,12,0,00:24:53,75
+male,25-34,Returning Visitor,Direct,Singapore,US$0.00,28,18,64.29%,1,3.57%,0,0.00%,14,0,00:53:37,63
+male,25-34,Returning Visitor,Direct,Taiwan,US$0.00,21,8,38.10%,0,0.00%,0,0.00%,16,0,01:49:36,88
+male,35-44,New Visitor,Direct,Argentina,US$0.00,11,4,36.36%,0,0.00%,0,0.00%,11,11,00:20:15,25
+male,35-44,New Visitor,Direct,Australia,US$0.00,40,22,55.00%,2,5.00%,0,0.00%,40,40,01:19:18,156
+male,35-44,New Visitor,Direct,Belgium,US$0.00,12,8,66.67%,0,0.00%,0,0.00%,12,12,00:13:37,37
+male,35-44,New Visitor,Direct,Brazil,US$0.00,37,14,37.84%,1,2.70%,0,0.00%,37,37,02:17:35,176
+male,35-44,New Visitor,Direct,Switzerland,US$0.00,13,5,38.46%,0,0.00%,0,0.00%,13,13,00:45:42,68
+male,35-44,New Visitor,Direct,China,US$0.00,13,8,61.54%,0,0.00%,0,0.00%,13,13,00:11:09,25
+male,35-44,New Visitor,Direct,Colombia,US$0.00,17,10,58.82%,0,0.00%,0,0.00%,17,17,01:39:27,59
+male,35-44,New Visitor,Direct,Germany,US$0.00,52,27,51.92%,3,5.77%,0,0.00%,52,52,02:29:23,219
+male,35-44,New Visitor,Direct,Spain,US$0.00,33,22,66.67%,0,0.00%,0,0.00%,33,33,00:35:35,65
+male,35-44,New Visitor,Direct,France,US$0.00,31,17,54.84%,1,3.23%,0,0.00%,31,31,01:04:55,122
+male,35-44,New Visitor,Direct,United Kingdom,US$0.00,107,39,36.45%,0,0.00%,0,0.00%,107,107,04:48:27,485
+male,35-44,New Visitor,Direct,Hong Kong,US$0.00,13,7,53.85%,0,0.00%,0,0.00%,13,13,00:13:22,26
+male,35-44,New Visitor,Direct,Indonesia,US$0.00,24,14,58.33%,0,0.00%,0,0.00%,24,24,01:07:29,73
+male,35-44,New Visitor,Direct,Ireland,US$0.00,12,5,41.67%,0,0.00%,0,0.00%,12,12,00:06:51,34
+male,35-44,New Visitor,Direct,Israel,US$0.00,11,9,81.82%,0,0.00%,0,0.00%,11,11,00:11:59,26
+male,35-44,New Visitor,Direct,India,US$0.00,164,89,54.27%,3,1.83%,0,0.00%,164,164,04:12:37,430
+male,35-44,New Visitor,Direct,Italy,US$0.00,45,28,62.22%,1,2.22%,0,0.00%,45,45,01:44:03,115
+male,35-44,New Visitor,Direct,Japan,US$0.00,69,41,59.42%,1,1.45%,0,0.00%,69,69,02:25:55,248
+male,35-44,New Visitor,Direct,South Korea,US$0.00,40,18,45.00%,0,0.00%,0,0.00%,40,40,02:05:00,127
+male,35-44,New Visitor,Direct,Mexico,US$0.00,24,11,45.83%,0,0.00%,0,0.00%,24,24,01:34:31,84
+male,35-44,New Visitor,Direct,Netherlands,US$0.00,15,6,40.00%,2,13.33%,0,0.00%,15,15,01:00:50,109
+male,35-44,New Visitor,Direct,Pakistan,US$0.00,11,5,45.45%,0,0.00%,0,0.00%,11,11,00:09:30,30
+male,35-44,New Visitor,Direct,Poland,US$0.00,26,10,38.46%,0,0.00%,0,0.00%,26,26,00:51:25,92
+male,35-44,New Visitor,Direct,Sweden,US$0.00,11,5,45.45%,1,9.09%,0,0.00%,11,11,00:17:52,39
+male,35-44,New Visitor,Direct,Singapore,US$0.00,31,14,45.16%,2,6.45%,0,0.00%,31,31,02:04:27,97
+male,35-44,New Visitor,Direct,Türkiye,US$0.00,17,10,58.82%,0,0.00%,0,0.00%,17,17,01:02:28,48
+male,35-44,New Visitor,Direct,Taiwan,US$0.00,36,18,50.00%,0,0.00%,0,0.00%,36,36,00:38:41,95
+male,35-44,New Visitor,Paid Search,Canada,US$0.00,15,11,73.33%,0,0.00%,0,0.00%,15,15,00:04:51,26
+male,35-44,Returning Visitor,Direct,Australia,US$0.00,26,11,42.31%,1,3.85%,0,0.00%,12,0,04:11:04,279
+male,35-44,Returning Visitor,Direct,Germany,US$0.00,24,14,58.33%,0,0.00%,0,0.00%,15,0,00:54:56,146
+male,35-44,Returning Visitor,Direct,Spain,US$0.00,14,5,35.71%,0,0.00%,0,0.00%,12,0,01:18:23,39
+male,35-44,Returning Visitor,Direct,Indonesia,US$0.00,28,13,46.43%,2,7.14%,0,0.00%,12,0,02:07:24,111
+male,35-44,Returning Visitor,Direct,India,US$0.00,26,11,42.31%,1,3.85%,0,0.00%,21,0,01:31:27,109
+male,35-44,Returning Visitor,Direct,Japan,US$0.00,27,13,48.15%,1,3.70%,0,0.00%,17,0,01:12:57,95
+male,35-44,Returning Visitor,Direct,South Korea,US$0.00,34,11,32.35%,1,2.94%,0,0.00%,22,0,01:24:08,112
+male,45-54,New Visitor,Direct,Australia,US$0.00,22,11,50.00%,1,4.55%,0,0.00%,22,22,01:06:58,83
+male,45-54,New Visitor,Direct,Belgium,US$0.00,10,6,60.00%,1,10.00%,0,0.00%,10,10,00:18:40,39
+male,45-54,New Visitor,Direct,Brazil,US$0.00,22,13,59.09%,1,4.55%,0,0.00%,22,22,00:42:55,54
+male,45-54,New Visitor,Direct,Canada,US$0.00,57,28,49.12%,4,7.02%,0,0.00%,57,57,03:28:33,287
+male,45-54,New Visitor,Direct,Switzerland,US$0.00,10,5,50.00%,0,0.00%,0,0.00%,10,10,00:09:21,24
+male,45-54,New Visitor,Direct,Colombia,US$0.00,14,9,64.29%,0,0.00%,0,0.00%,14,14,00:25:49,46
+male,45-54,New Visitor,Direct,Germany,US$0.00,20,10,50.00%,1,5.00%,0,0.00%,20,20,00:25:51,54
+male,45-54,New Visitor,Direct,Spain,US$0.00,38,24,63.16%,1,2.63%,0,0.00%,38,38,02:45:56,133
+male,45-54,New Visitor,Direct,France,US$0.00,18,15,83.33%,0,0.00%,0,0.00%,18,18,00:13:07,46
+male,45-54,New Visitor,Direct,Indonesia,US$0.00,15,9,60.00%,0,0.00%,0,0.00%,15,15,01:15:55,46
+male,45-54,New Visitor,Direct,Ireland,US$0.00,19,11,57.89%,0,0.00%,0,0.00%,19,19,00:38:46,49
+male,45-54,New Visitor,Direct,India,US$0.00,103,59,57.28%,1,0.97%,0,0.00%,103,103,03:50:19,305
+male,45-54,New Visitor,Direct,Italy,US$0.00,22,13,59.09%,0,0.00%,0,0.00%,22,22,00:12:11,57
+male,45-54,New Visitor,Direct,Japan,US$0.00,28,15,53.57%,0,0.00%,0,0.00%,28,28,00:32:35,66
+male,45-54,New Visitor,Direct,South Korea,US$0.00,46,21,45.65%,2,4.35%,0,0.00%,46,46,01:34:15,209
+male,45-54,New Visitor,Direct,Mexico,US$0.00,22,7,31.82%,1,4.55%,0,0.00%,22,22,01:07:14,106
+male,45-54,New Visitor,Direct,Netherlands,US$0.00,19,11,57.89%,0,0.00%,0,0.00%,19,19,00:53:26,44
+male,45-54,New Visitor,Direct,Poland,US$0.00,13,7,53.85%,0,0.00%,0,0.00%,13,13,00:10:20,31
+male,45-54,New Visitor,Direct,Sweden,US$0.00,20,9,45.00%,1,5.00%,0,0.00%,20,20,01:11:40,77
+male,45-54,New Visitor,Direct,Singapore,US$0.00,30,13,43.33%,1,3.33%,0,0.00%,30,30,01:20:57,169
+male,45-54,New Visitor,Paid Search,Canada,US$0.00,12,8,66.67%,0,0.00%,0,0.00%,12,12,00:22:50,24
+male,45-54,Returning Visitor,Direct,Spain,US$0.00,36,17,47.22%,3,8.33%,0,0.00%,13,0,03:19:56,162
+male,45-54,Returning Visitor,Direct,India,US$0.00,18,11,61.11%,1,5.56%,0,0.00%,14,0,00:28:17,51
+male,45-54,Returning Visitor,Direct,South Korea,US$0.00,21,7,33.33%,0,0.00%,0,0.00%,15,0,01:03:14,99
+male,45-54,Returning Visitor,Direct,Taiwan,US$0.00,18,5,27.78%,0,0.00%,0,0.00%,12,0,01:34:23,82
+male,45-54,Returning Visitor,Paid Search,United States,US$0.00,13,6,46.15%,1,7.69%,0,0.00%,12,0,01:05:44,95
+male,55-64,New Visitor,Direct,Brazil,US$0.00,10,8,80.00%,0,0.00%,0,0.00%,10,10,00:09:17,17
+male,55-64,New Visitor,Direct,Spain,US$0.00,18,14,77.78%,0,0.00%,0,0.00%,18,18,00:01:20,23
+male,55-64,New Visitor,Direct,France,US$0.00,13,11,84.62%,0,0.00%,0,0.00%,13,13,00:03:52,16
+male,55-64,New Visitor,Direct,United Kingdom,US$0.00,27,12,44.44%,2,7.41%,0,0.00%,27,27,00:26:12,81
+male,55-64,New Visitor,Direct,Ireland,US$0.00,10,7,70.00%,0,0.00%,0,0.00%,10,10,00:16:14,31
+male,55-64,New Visitor,Direct,India,US$0.00,45,26,57.78%,1,2.22%,0,0.00%,45,45,01:14:26,108
+male,55-64,New Visitor,Direct,South Korea,US$0.00,16,6,37.50%,0,0.00%,0,0.00%,16,16,01:01:13,48
+male,55-64,New Visitor,Direct,Netherlands,US$0.00,15,8,53.33%,0,0.00%,0,0.00%,15,15,00:05:08,29
+male,55-64,New Visitor,Direct,Singapore,US$0.00,12,6,50.00%,0,0.00%,0,0.00%,12,12,00:46:03,39
+male,55-64,New Visitor,Direct,Taiwan,US$0.00,13,7,53.85%,0,0.00%,0,0.00%,13,13,00:54:28,45
+male,55-64,New Visitor,Paid Search,United States,US$0.00,36,24,66.67%,0,0.00%,0,0.00%,36,36,00:20:56,55
+male,55-64,Returning Visitor,Direct,Canada,US$0.00,22,7,31.82%,0,0.00%,0,0.00%,11,0,02:03:28,121
+male,65+,New Visitor,Direct,Brazil,US$0.00,13,5,38.46%,0,0.00%,0,0.00%,13,13,00:16:22,35
+male,65+,New Visitor,Direct,Canada,US$0.00,15,8,53.33%,0,0.00%,0,0.00%,15,15,00:36:48,38
+male,65+,New Visitor,Direct,Spain,US$0.00,14,9,64.29%,0,0.00%,0,0.00%,14,14,00:22:59,29
+male,65+,New Visitor,Direct,India,US$0.00,44,24,54.55%,1,2.27%,0,0.00%,44,44,01:44:56,147
+male,65+,New Visitor,Direct,South Korea,US$0.00,15,7,46.67%,0,0.00%,0,0.00%,15,15,00:18:22,28
+male,65+,New Visitor,Direct,Netherlands,US$0.00,15,10,66.67%,0,0.00%,0,0.00%,15,15,00:41:30,36
+male,65+,New Visitor,Paid Search,United States,US$0.00,17,11,64.71%,0,0.00%,0,0.00%,17,17,00:37:43,54
