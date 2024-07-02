@@ -1,0 +1,685 @@
+# ----------------------------------------
+# 1 Master View
+# Sessions - Details of User - Export by Month
+# 20220101-20220131
+# ----------------------------------------
+
+Country,Source,Medium,Campaign,Device Category,Total Value,Sessions,Bounces,Bounce Rate,Entered Checkout (Goal 4 Completions),Entered Checkout (Goal 4 Conversion Rate),Transactions,E-commerce Conversion Rate,Users,New Users,Session Duration,Page Views
+United States,(direct),(none),(not set),desktop,"US$27,852.92","9,835","3,069",31.20%,588,5.98%,375,3.81%,"9,794","9,835",653:44:52,"67,327"
+United States,(direct),(none),(not set),mobile,"US$3,383.27","4,645","1,975",42.52%,100,2.15%,57,1.23%,"4,638","4,645",195:23:10,"20,298"
+United States,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),desktop,US$782.80,195,62,31.79%,18,9.23%,11,5.64%,195,195,14:21:43,"1,658"
+United Kingdom,(direct),(none),(not set),desktop,US$626.04,"1,430",631,44.13%,26,1.82%,9,0.63%,"1,429","1,430",59:31:46,"5,353"
+United States,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),mobile,US$445.70,144,30,20.83%,9,6.25%,6,4.17%,144,144,09:58:25,"1,083"
+United States,google,cpc, MIX | Txt ~ AW - Apparel,tablet,US$433.50,6,3,50.00%,1,16.67%,1,16.67%,6,6,00:27:53,65
+Canada,(direct),(none),(not set),desktop,US$265.10,"1,365",567,41.54%,26,1.90%,4,0.29%,"1,364","1,365",66:08:15,"5,851"
+Thailand,(direct),(none),(not set),desktop,US$136.00,190,91,47.89%,4,2.11%,1,0.53%,190,190,09:13:25,630
+United States,google,cpc, MIX | Txt ~ AW - Apparel,mobile,US$98.50,135,46,34.07%,4,2.96%,2,1.48%,135,135,09:06:56,660
+Hong Kong,(direct),(none),(not set),desktop,US$87.00,196,121,61.73%,1,0.51%,1,0.51%,196,196,04:43:33,548
+United States,google,cpc, MIX | Txt ~ AW - Apparel,desktop,US$73.80,100,20,20.00%,6,6.00%,3,3.00%,100,100,07:10:05,802
+Netherlands,(direct),(none),(not set),desktop,US$56.80,367,202,55.04%,7,1.91%,1,0.27%,365,367,19:30:29,"1,219"
+United States,(direct),(none),(not set),tablet,US$51.00,321,149,46.42%,2,0.62%,1,0.31%,321,321,10:05:03,"1,292"
+India,(direct),(none),(not set),desktop,US$48.00,"2,772","1,409",50.83%,41,1.48%,1,0.04%,"2,763","2,772",95:58:34,"8,395"
+Mexico,(direct),(none),(not set),mobile,US$41.25,114,58,50.88%,3,2.63%,1,0.88%,114,114,06:54:04,482
+Ireland,(direct),(none),(not set),desktop,US$32.64,218,119,54.59%,3,1.38%,1,0.46%,218,218,06:23:29,690
+Switzerland,(direct),(none),(not set),desktop,US$10.40,204,104,50.98%,4,1.96%,1,0.49%,203,204,05:09:22,642
+Andorra,(direct),(none),(not set),desktop,US$0.00,5,3,60.00%,1,20.00%,0,0.00%,5,5,00:07:37,19
+Andorra,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+United Arab Emirates,(direct),(none),(not set),desktop,US$0.00,118,59,50.00%,6,5.08%,0,0.00%,118,118,07:01:56,494
+United Arab Emirates,(direct),(none),(not set),mobile,US$0.00,40,31,77.50%,0,0.00%,0,0.00%,40,40,00:21:28,83
+United Arab Emirates,(direct),(none),(not set),tablet,US$0.00,8,5,62.50%,0,0.00%,0,0.00%,8,8,00:02:06,14
+United Arab Emirates,google,cpc, MIX | Txt ~ AW - Drinkware,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+United Arab Emirates,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:32,6
+United Arab Emirates,Partners,affiliate,Data Share Promo,desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Afghanistan,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:40,4
+Afghanistan,(direct),(none),(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Albania,(direct),(none),(not set),desktop,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,5,5,00:07:54,25
+Albania,(direct),(none),(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Albania,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Armenia,(direct),(none),(not set),desktop,US$0.00,7,1,14.29%,0,0.00%,0,0.00%,7,7,00:07:40,20
+Armenia,(direct),(none),(not set),mobile,US$0.00,2,0,0.00%,1,50.00%,0,0.00%,2,2,00:17:51,22
+Angola,(direct),(none),(not set),desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,4,4,00:06:44,10
+Angola,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Argentina,(direct),(none),(not set),desktop,US$0.00,122,66,54.10%,3,2.46%,0,0.00%,122,122,03:35:32,281
+Argentina,(direct),(none),(not set),mobile,US$0.00,21,11,52.38%,0,0.00%,0,0.00%,21,21,00:34:40,69
+Austria,(direct),(none),(not set),desktop,US$0.00,104,62,59.62%,0,0.00%,0,0.00%,103,104,02:23:51,223
+Austria,(direct),(none),(not set),mobile,US$0.00,39,27,69.23%,0,0.00%,0,0.00%,39,39,00:44:53,76
+Austria,(direct),(none),(not set),tablet,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,3,00:00:00,3
+Austria,google,cpc, Test,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:18,2
+Australia,(direct),(none),(not set),desktop,US$0.00,354,194,54.80%,9,2.54%,0,0.00%,354,354,13:43:23,"1,423"
+Australia,(direct),(none),(not set),mobile,US$0.00,188,102,54.26%,2,1.06%,0,0.00%,187,188,04:49:09,585
+Australia,(direct),(none),(not set),tablet,US$0.00,25,15,60.00%,0,0.00%,0,0.00%,25,25,00:26:05,89
+Australia,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:02:21,3
+Australia,google,cpc, EXA | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Australia,google,cpc, Test,desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:19:12,4
+Australia,google,cpc, Test,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Australia,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Aruba,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Åland Islands,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Azerbaijan,(direct),(none),(not set),desktop,US$0.00,13,8,61.54%,0,0.00%,0,0.00%,13,13,00:19:13,27
+Azerbaijan,(direct),(none),(not set),mobile,US$0.00,7,5,71.43%,0,0.00%,0,0.00%,7,7,00:02:37,15
+Bosnia & Herzegovina,(direct),(none),(not set),desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,4,4,00:04:48,14
+Bosnia & Herzegovina,(direct),(none),(not set),mobile,US$0.00,10,6,60.00%,0,0.00%,0,0.00%,10,10,00:14:06,15
+Bosnia & Herzegovina,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:02:26,6
+Barbados,(direct),(none),(not set),desktop,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,3,3,00:15:22,18
+Barbados,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Bangladesh,(direct),(none),(not set),desktop,US$0.00,59,31,52.54%,0,0.00%,0,0.00%,59,59,02:18:48,142
+Bangladesh,(direct),(none),(not set),mobile,US$0.00,40,24,60.00%,1,2.50%,0,0.00%,40,40,00:27:33,97
+Bangladesh,google,cpc, EXA | Txt ~ AW - Hoodies (set 1),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:04,2
+Bangladesh,google,cpc, MIX | Txt ~ AW - T-shirts (CA),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Bangladesh,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Bangladesh,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Bangladesh,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Bangladesh,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:17,2
+Belgium,(direct),(none),(not set),desktop,US$0.00,126,72,57.14%,3,2.38%,0,0.00%,125,126,06:14:26,544
+Belgium,(direct),(none),(not set),mobile,US$0.00,52,28,53.85%,0,0.00%,0,0.00%,52,52,02:08:49,165
+Belgium,(direct),(none),(not set),tablet,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,3,00:05:40,8
+Belgium,google,cpc, Test,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Burkina Faso,google,cpc, EXA | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Bulgaria,(direct),(none),(not set),desktop,US$0.00,54,31,57.41%,1,1.85%,0,0.00%,54,54,03:25:00,247
+Bulgaria,(direct),(none),(not set),mobile,US$0.00,11,8,72.73%,0,0.00%,0,0.00%,11,11,00:24:59,54
+Bahrain,(direct),(none),(not set),desktop,US$0.00,7,2,28.57%,0,0.00%,0,0.00%,7,7,00:27:27,26
+Bahrain,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Bahrain,google,cpc, Test,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Benin,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Benin,google,cpc, EXA | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Bermuda,google,cpc, EXA | Txt ~ AW - Hoodies (set 1),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Brunei,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:42,5
+Brunei,(direct),(none),(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Bolivia,(direct),(none),(not set),desktop,US$0.00,6,1,16.67%,0,0.00%,0,0.00%,6,6,00:38:52,25
+Bolivia,(direct),(none),(not set),mobile,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,4,4,00:00:34,6
+Brazil,(direct),(none),(not set),desktop,US$0.00,468,287,61.32%,5,1.07%,0,0.00%,468,468,15:49:35,"1,257"
+Brazil,(direct),(none),(not set),mobile,US$0.00,80,42,52.50%,4,5.00%,0,0.00%,80,80,03:05:31,335
+Brazil,(direct),(none),(not set),tablet,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,4,00:05:11,5
+Brazil,google,cpc, MIX | Txt ~ AW - T-shirts (CA),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Brazil,google,cpc, Test,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Brazil,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Bahamas,(direct),(none),(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,3,00:01:55,17
+Bahamas,(direct),(none),(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Bahamas,(direct),(none),(not set),tablet,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Bahamas,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Botswana,(direct),(none),(not set),desktop,US$0.00,4,2,50.00%,1,25.00%,0,0.00%,4,4,00:09:47,24
+Botswana,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:48,7
+Belarus,(direct),(none),(not set),desktop,US$0.00,17,12,70.59%,0,0.00%,0,0.00%,17,17,00:26:26,46
+Belarus,(direct),(none),(not set),mobile,US$0.00,8,3,37.50%,0,0.00%,0,0.00%,8,8,00:22:52,31
+Belize,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Canada,(direct),(none),(not set),mobile,US$0.00,456,202,44.30%,10,2.19%,0,0.00%,456,456,14:01:41,"1,955"
+Canada,(direct),(none),(not set),tablet,US$0.00,44,16,36.36%,0,0.00%,0,0.00%,44,44,01:13:46,180
+Canada,dfa,cpm,(not set),desktop,US$0.00,29,24,82.76%,0,0.00%,0,0.00%,29,29,01:11:31,63
+Canada,dfa,cpm,(not set),mobile,US$0.00,16,12,75.00%,0,0.00%,0,0.00%,16,16,00:31:17,50
+Canada,dfa,cpm,(not set),tablet,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Canada,google,cpc, BMM | Txt ~ AW - Hoodies,desktop,US$0.00,27,20,74.07%,0,0.00%,0,0.00%,27,27,00:39:22,76
+Canada,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,374,347,92.78%,0,0.00%,0,0.00%,374,374,00:33:56,410
+Canada,google,cpc, BMM | Txt ~ AW - Hoodies,tablet,US$0.00,14,14,100.00%,0,0.00%,0,0.00%,14,14,00:00:00,14
+Canada,google,cpc, BMM | Txt ~ AW - Tumbler,desktop,US$0.00,17,16,94.12%,0,0.00%,0,0.00%,17,17,00:00:20,18
+Canada,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,75,70,93.33%,0,0.00%,0,0.00%,75,75,00:03:56,86
+Canada,google,cpc, BMM | Txt ~ AW - Tumbler,tablet,US$0.00,8,7,87.50%,0,0.00%,0,0.00%,8,8,00:01:07,11
+Canada,google,cpc, EXA | Txt ~ AW - Hoodies,desktop,US$0.00,38,36,94.74%,0,0.00%,0,0.00%,38,38,00:00:24,40
+Canada,google,cpc, EXA | Txt ~ AW - Hoodies,mobile,US$0.00,144,132,91.67%,0,0.00%,0,0.00%,144,144,00:24:09,161
+Canada,google,cpc, EXA | Txt ~ AW - Hoodies,tablet,US$0.00,12,9,75.00%,0,0.00%,0,0.00%,12,12,00:14:29,15
+Canada,google,cpc, EXA | Txt ~ AW - Tumbler,desktop,US$0.00,22,20,90.91%,0,0.00%,0,0.00%,22,22,00:01:08,29
+Canada,google,cpc, EXA | Txt ~ AW - Tumbler,mobile,US$0.00,35,32,91.43%,0,0.00%,0,0.00%,35,35,00:01:42,38
+Canada,google,cpc, EXA | Txt ~ AW - Tumbler,tablet,US$0.00,14,11,78.57%,0,0.00%,0,0.00%,14,14,00:02:49,25
+Canada,google,cpc, MIX | Txt ~ AW - Apparel,desktop,US$0.00,9,4,44.44%,0,0.00%,0,0.00%,9,9,00:21:21,28
+Canada,google,cpc, MIX | Txt ~ AW - Apparel,mobile,US$0.00,14,4,28.57%,0,0.00%,0,0.00%,14,14,00:28:28,60
+Canada,google,cpc, MIX | Txt ~ AW - Drinkware,desktop,US$0.00,20,16,80.00%,0,0.00%,0,0.00%,20,20,00:10:15,31
+Canada,google,cpc, MIX | Txt ~ AW - Drinkware,mobile,US$0.00,23,17,73.91%,0,0.00%,0,0.00%,23,23,00:09:01,35
+Canada,google,cpc, MIX | Txt ~ AW - Drinkware,tablet,US$0.00,14,12,85.71%,0,0.00%,0,0.00%,14,14,00:01:37,19
+Canada,google,cpc, MIX | Txt ~ AW - T-shirts,desktop,US$0.00,38,29,76.32%,0,0.00%,0,0.00%,38,38,00:06:17,60
+Canada,google,cpc, MIX | Txt ~ AW - T-shirts,mobile,US$0.00,163,146,89.57%,0,0.00%,0,0.00%,163,163,00:08:48,191
+Canada,google,cpc, MIX | Txt ~ AW - T-shirts,tablet,US$0.00,14,10,71.43%,0,0.00%,0,0.00%,14,14,00:02:08,24
+Canada,google,cpc, MIX | Txt ~ AW - T-shirts (set 0),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Canada,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Canada,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Canada,google,cpc, MIX | Txt ~ AW - YouTube,desktop,US$0.00,52,35,67.31%,1,1.92%,0,0.00%,52,52,01:17:16,216
+Canada,google,cpc, MIX | Txt ~ AW - YouTube,mobile,US$0.00,67,50,74.63%,0,0.00%,0,0.00%,67,67,00:10:28,97
+Canada,google,cpc, MIX | Txt ~ AW - YouTube,tablet,US$0.00,7,6,85.71%,0,0.00%,0,0.00%,7,7,00:00:40,8
+Canada,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:26:18,9
+Canada,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:10:58,8
+Canada,google,cpc, Test,desktop,US$0.00,30,22,73.33%,0,0.00%,0,0.00%,30,30,00:36:48,55
+Canada,google,cpc, Test,mobile,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:04:52,13
+Canada,Partners,affiliate,Data Share Promo,desktop,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,6,6,00:01:20,8
+Canada,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:19,2
+Congo - Kinshasa,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Congo - Brazzaville,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Switzerland,(direct),(none),(not set),mobile,US$0.00,56,29,51.79%,2,3.57%,0,0.00%,56,56,01:10:09,169
+Switzerland,(direct),(none),(not set),tablet,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,5,5,00:02:09,20
+Switzerland,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:51,7
+Switzerland,google,cpc, Test,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:17,2
+Côte d’Ivoire,(direct),(none),(not set),desktop,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,6,6,00:07:42,10
+Côte d’Ivoire,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:55,2
+Chile,(direct),(none),(not set),desktop,US$0.00,104,63,60.58%,2,1.92%,0,0.00%,104,104,01:38:20,217
+Chile,(direct),(none),(not set),mobile,US$0.00,19,10,52.63%,1,5.26%,0,0.00%,19,19,00:51:54,61
+Chile,(direct),(none),(not set),tablet,US$0.00,6,3,50.00%,0,0.00%,0,0.00%,6,6,00:26:08,21
+Cameroon,(direct),(none),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:06:47,7
+Cameroon,(direct),(none),(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:07,3
+Cameroon,dfa,cpm,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:14,2
+China,(direct),(none),(not set),desktop,US$0.00,253,188,74.31%,0,0.00%,0,0.00%,253,253,02:28:37,400
+China,(direct),(none),(not set),mobile,US$0.00,194,145,74.74%,0,0.00%,0,0.00%,194,194,01:11:23,272
+China,(direct),(none),(not set),tablet,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,4,4,00:00:00,4
+China,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+China,google,cpc, Test,desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:06:58,7
+Colombia,(direct),(none),(not set),desktop,US$0.00,214,119,55.61%,2,0.93%,0,0.00%,214,214,07:49:09,551
+Colombia,(direct),(none),(not set),mobile,US$0.00,39,25,64.10%,0,0.00%,0,0.00%,39,39,01:00:50,94
+Colombia,google,cpc, EXA | Txt ~ AW - Hoodies (set 1),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Colombia,google,cpc, EXA | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Costa Rica,(direct),(none),(not set),desktop,US$0.00,23,10,43.48%,0,0.00%,0,0.00%,23,23,01:34:32,59
+Costa Rica,(direct),(none),(not set),mobile,US$0.00,12,8,66.67%,1,8.33%,0,0.00%,12,12,00:53:04,56
+Costa Rica,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Curaçao,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:12,3
+Curaçao,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Cyprus,(direct),(none),(not set),desktop,US$0.00,5,4,80.00%,0,0.00%,0,0.00%,5,5,00:34:34,11
+Cyprus,(direct),(none),(not set),mobile,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,4,4,00:06:53,6
+Czechia,(direct),(none),(not set),desktop,US$0.00,96,52,54.17%,1,1.04%,0,0.00%,96,96,04:24:47,339
+Czechia,(direct),(none),(not set),mobile,US$0.00,28,16,57.14%,1,3.57%,0,0.00%,28,28,01:10:41,140
+Czechia,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Czechia,google,cpc, Test,tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Germany,(direct),(none),(not set),desktop,US$0.00,633,377,59.56%,5,0.79%,0,0.00%,631,633,20:11:14,"1,754"
+Germany,(direct),(none),(not set),mobile,US$0.00,304,177,58.22%,1,0.33%,0,0.00%,304,304,05:37:50,705
+Germany,(direct),(none),(not set),tablet,US$0.00,17,9,52.94%,0,0.00%,0,0.00%,17,17,00:32:10,40
+Germany,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Germany,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Germany,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Germany,google,cpc, Test,desktop,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,4,00:04:42,5
+Germany,Partners,affiliate,Data Share Promo,desktop,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,4,00:00:48,7
+Germany,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Denmark,(direct),(none),(not set),desktop,US$0.00,103,55,53.40%,1,0.97%,0,0.00%,102,103,02:42:38,294
+Denmark,(direct),(none),(not set),mobile,US$0.00,35,16,45.71%,1,2.86%,0,0.00%,35,35,01:08:51,128
+Denmark,(direct),(none),(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:29,4
+Denmark,google,cpc, Test,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:09:13,3
+Dominican Republic,(direct),(none),(not set),desktop,US$0.00,18,7,38.89%,0,0.00%,0,0.00%,18,18,01:07:28,92
+Dominican Republic,(direct),(none),(not set),mobile,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,5,5,00:12:32,20
+Dominican Republic,(direct),(none),(not set),tablet,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Dominican Republic,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Dominican Republic,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Dominican Republic,google,cpc, MIX | Txt ~ AW - T-shirts (set 0),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:29,3
+Dominican Republic,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Algeria,(direct),(none),(not set),desktop,US$0.00,15,9,60.00%,0,0.00%,0,0.00%,15,15,00:09:54,31
+Algeria,(direct),(none),(not set),mobile,US$0.00,7,4,57.14%,0,0.00%,0,0.00%,7,7,00:01:24,14
+Ecuador,(direct),(none),(not set),desktop,US$0.00,44,26,59.09%,1,2.27%,0,0.00%,44,44,03:37:53,119
+Ecuador,(direct),(none),(not set),mobile,US$0.00,8,6,75.00%,0,0.00%,0,0.00%,8,8,00:03:27,12
+Ecuador,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Ecuador,google,cpc, MIX | Txt ~ AW - T-shirts,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Estonia,(direct),(none),(not set),desktop,US$0.00,17,6,35.29%,1,5.88%,0,0.00%,17,17,00:25:59,75
+Estonia,(direct),(none),(not set),mobile,US$0.00,9,6,66.67%,0,0.00%,0,0.00%,9,9,00:11:12,25
+Egypt,(direct),(none),(not set),desktop,US$0.00,64,34,53.12%,1,1.56%,0,0.00%,64,64,04:07:28,191
+Egypt,(direct),(none),(not set),mobile,US$0.00,28,11,39.29%,0,0.00%,0,0.00%,28,28,00:47:12,73
+Egypt,(direct),(none),(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:05,3
+Egypt,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:34,3
+Egypt,google,cpc, EXA | Txt ~ AW - Hoodies (set 1),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Egypt,google,cpc, Test,desktop,US$0.00,20,18,90.00%,0,0.00%,0,0.00%,20,20,00:00:00,22
+Egypt,Partners,affiliate,Data Share Promo,tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Spain,(direct),(none),(not set),desktop,US$0.00,949,580,61.12%,3,0.32%,0,0.00%,947,949,43:33:24,"2,776"
+Spain,(direct),(none),(not set),mobile,US$0.00,181,116,64.09%,2,1.10%,0,0.00%,181,181,02:11:50,410
+Spain,(direct),(none),(not set),tablet,US$0.00,9,5,55.56%,0,0.00%,0,0.00%,9,9,00:16:16,32
+Spain,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:10,4
+Spain,Partners,affiliate,Data Share Promo,desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,3,00:00:00,3
+Ethiopia,(direct),(none),(not set),desktop,US$0.00,9,8,88.89%,0,0.00%,0,0.00%,9,9,00:00:07,10
+Ethiopia,(direct),(none),(not set),mobile,US$0.00,7,3,42.86%,0,0.00%,0,0.00%,7,7,00:08:34,20
+Finland,(direct),(none),(not set),desktop,US$0.00,59,28,47.46%,0,0.00%,0,0.00%,59,59,01:14:24,163
+Finland,(direct),(none),(not set),mobile,US$0.00,20,13,65.00%,0,0.00%,0,0.00%,20,20,00:22:20,49
+Finland,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:03:15,2
+Finland,google,cpc, Test,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+France,(direct),(none),(not set),desktop,US$0.00,"1,274",756,59.34%,8,0.63%,0,0.00%,"1,267","1,274",64:25:11,"3,324"
+France,(direct),(none),(not set),mobile,US$0.00,185,105,56.76%,2,1.08%,0,0.00%,185,185,06:02:56,633
+France,(direct),(none),(not set),tablet,US$0.00,6,2,33.33%,1,16.67%,0,0.00%,6,6,00:23:37,23
+France,google,cpc, MIX | Txt ~ AW - Bags,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:02,2
+France,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+France,google,cpc, Test,desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,3,00:00:37,5
+France,Partners,affiliate,Data Share Promo,desktop,US$0.00,5,4,80.00%,0,0.00%,0,0.00%,5,5,00:00:44,6
+France,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:17,2
+Gabon,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+United Kingdom,(direct),(none),(not set),mobile,US$0.00,891,459,51.52%,7,0.79%,0,0.00%,891,891,27:23:08,"2,830"
+United Kingdom,(direct),(none),(not set),tablet,US$0.00,82,39,47.56%,0,0.00%,0,0.00%,82,82,04:25:47,338
+United Kingdom,dfa,cpm,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+United Kingdom,dfa,cpm,(not set),mobile,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,3,00:00:00,3
+United Kingdom,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+United Kingdom,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+United Kingdom,google,cpc, EXA | Txt ~ AW - YouTube,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:19,2
+United Kingdom,google,cpc, MIX | Txt ~ AW - Apparel,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+United Kingdom,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:11:36,24
+United Kingdom,google,cpc, Test,desktop,US$0.00,26,21,80.77%,0,0.00%,0,0.00%,26,26,00:04:33,42
+United Kingdom,Partners,affiliate,Data Share Promo,desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:00:37,4
+Grenada,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Georgia,(direct),(none),(not set),desktop,US$0.00,9,6,66.67%,0,0.00%,0,0.00%,9,9,00:02:37,16
+Georgia,(direct),(none),(not set),mobile,US$0.00,6,3,50.00%,0,0.00%,0,0.00%,6,6,00:03:25,18
+Guernsey,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Guernsey,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Ghana,(direct),(none),(not set),desktop,US$0.00,4,1,25.00%,0,0.00%,0,0.00%,4,4,00:11:45,15
+Ghana,(direct),(none),(not set),mobile,US$0.00,4,1,25.00%,0,0.00%,0,0.00%,4,4,00:00:49,7
+Ghana,google,cpc, MIX | Txt ~ AW - T-shirts (set 0),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Guinea,(direct),(none),(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Guinea,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Greece,(direct),(none),(not set),desktop,US$0.00,61,26,42.62%,1,1.64%,0,0.00%,61,61,02:28:45,237
+Greece,(direct),(none),(not set),mobile,US$0.00,19,12,63.16%,0,0.00%,0,0.00%,19,19,00:35:34,68
+Greece,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Greece,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Greece,google,cpc, MIX | Txt ~ AW - T-shirts (CA),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Greece,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Guatemala,(direct),(none),(not set),desktop,US$0.00,12,8,66.67%,0,0.00%,0,0.00%,12,12,00:26:06,21
+Guatemala,(direct),(none),(not set),mobile,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,6,6,00:04:15,11
+Guam,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:02,2
+Guam,(direct),(none),(not set),mobile,US$0.00,6,3,50.00%,0,0.00%,0,0.00%,5,6,00:15:55,26
+Guyana,(direct),(none),(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,2,00:24:19,36
+Guyana,(direct),(none),(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Guyana,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Hong Kong,(direct),(none),(not set),mobile,US$0.00,133,105,78.95%,2,1.50%,0,0.00%,133,133,00:59:15,276
+Hong Kong,(direct),(none),(not set),tablet,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,3,00:00:00,3
+Hong Kong,google,cpc, MIX | Txt ~ AW - Apparel,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:30,3
+Hong Kong,google,cpc, Test,desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:00:11,4
+Honduras,(direct),(none),(not set),desktop,US$0.00,8,1,12.50%,0,0.00%,0,0.00%,8,8,00:52:00,59
+Honduras,(direct),(none),(not set),mobile,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,5,5,00:10:17,27
+Honduras,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Croatia,(direct),(none),(not set),desktop,US$0.00,44,20,45.45%,0,0.00%,0,0.00%,44,44,01:23:46,147
+Croatia,(direct),(none),(not set),mobile,US$0.00,13,5,38.46%,0,0.00%,0,0.00%,13,13,00:39:31,50
+Croatia,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Haiti,(direct),(none),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:07,3
+Hungary,(direct),(none),(not set),desktop,US$0.00,48,29,60.42%,1,2.08%,0,0.00%,48,48,02:08:40,149
+Hungary,(direct),(none),(not set),mobile,US$0.00,27,15,55.56%,0,0.00%,0,0.00%,27,27,01:01:25,125
+Hungary,(direct),(none),(not set),tablet,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Hungary,google,cpc, EXA | Txt ~ AW - YouTube,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Hungary,google,cpc, MIX | Txt ~ AW - T-shirts (set 0),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:22,4
+Hungary,google,cpc, Test,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Indonesia,(direct),(none),(not set),desktop,US$0.00,211,136,64.45%,1,0.47%,0,0.00%,211,211,05:52:52,502
+Indonesia,(direct),(none),(not set),mobile,US$0.00,124,74,59.68%,1,0.81%,0,0.00%,123,124,02:49:53,343
+Indonesia,(direct),(none),(not set),tablet,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Indonesia,google,cpc, BMM | Txt ~ AW - Hoodies,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Indonesia,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Indonesia,google,cpc, EXA | Txt ~ AW - Hoodies (set 1),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Indonesia,google,cpc, MIX | Txt ~ AW - T-shirts (CA),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Indonesia,Partners,affiliate,Data Share Promo,desktop,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,4,4,00:00:00,4
+Ireland,(direct),(none),(not set),mobile,US$0.00,97,56,57.73%,0,0.00%,0,0.00%,96,97,01:16:50,233
+Ireland,(direct),(none),(not set),tablet,US$0.00,11,9,81.82%,0,0.00%,0,0.00%,11,11,00:04:00,19
+Ireland,google,cpc, EXA | Txt ~ AW - YouTube,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Ireland,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Israel,(direct),(none),(not set),desktop,US$0.00,107,57,53.27%,1,0.93%,0,0.00%,107,107,04:48:49,329
+Israel,(direct),(none),(not set),mobile,US$0.00,32,9,28.12%,1,3.12%,0,0.00%,32,32,00:59:59,202
+Israel,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:28:25,21
+Israel,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Israel,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Israel,google,cpc, Test,desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,3,00:00:00,3
+India,(direct),(none),(not set),mobile,US$0.00,"2,420","1,399",57.81%,25,1.03%,0,0.00%,"2,417","2,420",45:36:35,"6,387"
+India,(direct),(none),(not set),tablet,US$0.00,56,33,58.93%,0,0.00%,0,0.00%,56,56,01:10:35,155
+India,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,13,12,92.31%,0,0.00%,0,0.00%,13,13,00:00:14,14
+India,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+India,google,cpc, EXA | Txt ~ AW - Hoodies,mobile,US$0.00,6,6,100.00%,0,0.00%,0,0.00%,6,6,00:00:00,6
+India,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),mobile,US$0.00,12,11,91.67%,0,0.00%,0,0.00%,12,12,00:00:15,13
+India,google,cpc, EXA | Txt ~ AW - Hoodies (set 1),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+India,google,cpc, EXA | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+India,google,cpc, MIX | Txt ~ AW - Bags,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+India,google,cpc, MIX | Txt ~ AW - Drinkware,mobile,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,4,4,00:00:00,4
+India,google,cpc, MIX | Txt ~ AW - T-shirts,mobile,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,3,00:00:00,3
+India,google,cpc, MIX | Txt ~ AW - T-shirts (CA),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+India,google,cpc, MIX | Txt ~ AW - T-shirts (set 0),mobile,US$0.00,6,5,83.33%,0,0.00%,0,0.00%,6,6,00:00:13,7
+India,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),mobile,US$0.00,7,7,100.00%,0,0.00%,0,0.00%,7,7,00:00:00,7
+India,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,33,29,87.88%,0,0.00%,0,0.00%,33,33,00:09:20,37
+India,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),mobile,US$0.00,10,9,90.00%,0,0.00%,0,0.00%,10,10,00:00:28,11
+India,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+India,google,cpc, Test,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+India,google,cpc, Test,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+India,Partners,affiliate,Data Share Promo,desktop,US$0.00,9,7,77.78%,0,0.00%,0,0.00%,9,9,00:09:48,11
+India,Partners,affiliate,Data Share Promo,mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Iraq,(direct),(none),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:01:31,5
+Iraq,(direct),(none),(not set),mobile,US$0.00,10,7,70.00%,0,0.00%,0,0.00%,10,10,00:09:36,25
+Iceland,(direct),(none),(not set),desktop,US$0.00,19,13,68.42%,0,0.00%,0,0.00%,19,19,00:13:29,44
+Iceland,(direct),(none),(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,2,00:04:14,8
+Iceland,(direct),(none),(not set),tablet,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Italy,(direct),(none),(not set),desktop,US$0.00,377,234,62.07%,4,1.06%,0,0.00%,377,377,08:33:56,"1,010"
+Italy,(direct),(none),(not set),mobile,US$0.00,155,87,56.13%,1,0.65%,0,0.00%,155,155,04:57:37,450
+Italy,(direct),(none),(not set),tablet,US$0.00,11,6,54.55%,0,0.00%,0,0.00%,11,11,00:09:20,25
+Italy,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:22,2
+Italy,google,cpc, EXA | Txt ~ AW - Tumbler,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:20,2
+Italy,google,cpc, Test,desktop,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,5,5,00:07:01,25
+Italy,google,cpc, Test,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Italy,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Jersey,(direct),(none),(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Jersey,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Jamaica,(direct),(none),(not set),mobile,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,4,00:00:13,5
+Jamaica,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Jamaica,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Jordan,(direct),(none),(not set),desktop,US$0.00,12,4,33.33%,1,8.33%,0,0.00%,12,12,00:17:36,43
+Jordan,(direct),(none),(not set),mobile,US$0.00,7,5,71.43%,0,0.00%,0,0.00%,7,7,00:01:50,10
+Jordan,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Jordan,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Japan,(direct),(none),(not set),desktop,US$0.00,549,317,57.74%,6,1.09%,0,0.00%,546,549,20:37:22,"1,690"
+Japan,(direct),(none),(not set),mobile,US$0.00,284,150,52.82%,5,1.76%,0,0.00%,284,284,08:41:37,918
+Japan,(direct),(none),(not set),tablet,US$0.00,14,6,42.86%,0,0.00%,0,0.00%,14,14,00:36:38,49
+Japan,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:02:01,5
+Japan,google,cpc, Test,desktop,US$0.00,10,7,70.00%,0,0.00%,0,0.00%,10,10,00:01:37,16
+Japan,Partners,affiliate,Data Share Promo,desktop,US$0.00,8,5,62.50%,0,0.00%,0,0.00%,8,8,00:02:05,12
+Kenya,(direct),(none),(not set),desktop,US$0.00,22,12,54.55%,1,4.55%,0,0.00%,21,22,01:20:08,75
+Kenya,(direct),(none),(not set),mobile,US$0.00,17,11,64.71%,0,0.00%,0,0.00%,17,17,00:50:11,83
+Kyrgyzstan,(direct),(none),(not set),desktop,US$0.00,2,0,0.00%,1,50.00%,0,0.00%,2,2,00:16:32,17
+Kyrgyzstan,(direct),(none),(not set),mobile,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:42:27,33
+Cambodia,(direct),(none),(not set),desktop,US$0.00,7,4,57.14%,0,0.00%,0,0.00%,7,7,00:08:36,15
+Cambodia,(direct),(none),(not set),mobile,US$0.00,12,6,50.00%,1,8.33%,0,0.00%,12,12,00:23:10,44
+St. Kitts & Nevis,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+South Korea,(direct),(none),(not set),desktop,US$0.00,611,384,62.85%,3,0.49%,0,0.00%,609,611,25:39:37,"1,465"
+South Korea,(direct),(none),(not set),mobile,US$0.00,127,70,55.12%,0,0.00%,0,0.00%,127,127,03:56:35,396
+South Korea,(direct),(none),(not set),tablet,US$0.00,13,11,84.62%,0,0.00%,0,0.00%,13,13,00:26:11,24
+South Korea,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+South Korea,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+South Korea,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+South Korea,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+South Korea,google,cpc, Test,desktop,US$0.00,44,33,75.00%,0,0.00%,0,0.00%,44,44,00:13:38,72
+South Korea,Partners,affiliate,Data Share Promo,desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:10:55,3
+Kuwait,(direct),(none),(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:01:02,5
+Kuwait,(direct),(none),(not set),mobile,US$0.00,4,1,25.00%,0,0.00%,0,0.00%,4,4,00:03:34,17
+Kuwait,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:10:08,4
+Kuwait,google,cpc, Test,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:44,2
+Kuwait,google,cpc, Test,mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:45,3
+Cayman Islands,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Cayman Islands,google,cpc, Test,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:13,2
+Kazakhstan,(direct),(none),(not set),desktop,US$0.00,11,4,36.36%,0,0.00%,0,0.00%,11,11,00:36:21,124
+Kazakhstan,(direct),(none),(not set),mobile,US$0.00,10,3,30.00%,0,0.00%,0,0.00%,10,10,01:05:31,43
+Kazakhstan,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:24,3
+Kazakhstan,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Laos,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Laos,(direct),(none),(not set),mobile,US$0.00,9,6,66.67%,0,0.00%,0,0.00%,9,9,00:02:44,12
+Lebanon,(direct),(none),(not set),desktop,US$0.00,7,4,57.14%,0,0.00%,0,0.00%,7,7,00:05:46,20
+Lebanon,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Lebanon,google,cpc, MIX | Txt ~ AW - T-shirts,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+St. Lucia,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+St. Lucia,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:28,6
+Liechtenstein,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Sri Lanka,(direct),(none),(not set),desktop,US$0.00,73,34,46.58%,5,6.85%,0,0.00%,73,73,05:42:50,357
+Sri Lanka,(direct),(none),(not set),mobile,US$0.00,45,26,57.78%,1,2.22%,0,0.00%,45,45,01:32:08,131
+Sri Lanka,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Lesotho,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:30:28,10
+Lithuania,(direct),(none),(not set),desktop,US$0.00,36,20,55.56%,1,2.78%,0,0.00%,36,36,02:06:49,107
+Lithuania,(direct),(none),(not set),mobile,US$0.00,12,7,58.33%,0,0.00%,0,0.00%,12,12,00:05:33,22
+Lithuania,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:23,2
+Luxembourg,(direct),(none),(not set),desktop,US$0.00,9,5,55.56%,0,0.00%,0,0.00%,9,9,00:21:19,54
+Luxembourg,(direct),(none),(not set),mobile,US$0.00,9,3,33.33%,0,0.00%,0,0.00%,9,9,00:46:40,38
+Latvia,(direct),(none),(not set),desktop,US$0.00,21,10,47.62%,0,0.00%,0,0.00%,21,21,01:43:42,60
+Latvia,(direct),(none),(not set),mobile,US$0.00,6,2,33.33%,0,0.00%,0,0.00%,6,6,00:05:18,12
+Latvia,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Libya,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:32:40,6
+Libya,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Morocco,(direct),(none),(not set),desktop,US$0.00,76,49,64.47%,2,2.63%,0,0.00%,76,76,01:43:21,181
+Morocco,(direct),(none),(not set),mobile,US$0.00,10,8,80.00%,0,0.00%,0,0.00%,10,10,00:01:55,15
+Morocco,google,cpc, Test,desktop,US$0.00,8,5,62.50%,0,0.00%,0,0.00%,8,8,00:01:49,30
+Moldova,(direct),(none),(not set),desktop,US$0.00,7,2,28.57%,0,0.00%,0,0.00%,7,7,00:12:31,29
+Moldova,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Montenegro,(direct),(none),(not set),desktop,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,4,00:10:36,17
+Madagascar,(direct),(none),(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,3,00:25:24,5
+Madagascar,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+North Macedonia,(direct),(none),(not set),desktop,US$0.00,7,4,57.14%,1,14.29%,0,0.00%,7,7,00:10:06,21
+North Macedonia,(direct),(none),(not set),mobile,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,6,6,00:01:06,8
+Myanmar (Burma),(direct),(none),(not set),desktop,US$0.00,6,2,33.33%,0,0.00%,0,0.00%,6,6,00:04:42,13
+Myanmar (Burma),(direct),(none),(not set),mobile,US$0.00,32,21,65.62%,1,3.12%,0,0.00%,32,32,00:19:17,98
+Myanmar (Burma),(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:03:38,6
+Mongolia,(direct),(none),(not set),desktop,US$0.00,10,6,60.00%,0,0.00%,0,0.00%,10,10,00:13:14,24
+Mongolia,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:03:27,3
+Mongolia,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Macao,(direct),(none),(not set),desktop,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,4,4,00:00:00,4
+Macao,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Northern Mariana Islands,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:07:07,2
+Northern Mariana Islands,(direct),(none),(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,2,00:02:30,14
+Martinique,(direct),(none),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:08,3
+Mauritania,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Malta,(direct),(none),(not set),desktop,US$0.00,12,8,66.67%,0,0.00%,0,0.00%,12,12,00:05:37,19
+Malta,(direct),(none),(not set),mobile,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:02:57,7
+Mauritius,(direct),(none),(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,2,00:06:03,6
+Mauritius,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:00,2
+Mauritius,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Maldives,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:09:09,6
+Malawi,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:41,2
+Mexico,(direct),(none),(not set),desktop,US$0.00,316,164,51.90%,6,1.90%,0,0.00%,316,316,13:28:23,"1,206"
+Mexico,(direct),(none),(not set),tablet,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,5,5,00:43:34,56
+Mexico,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,5,4,80.00%,0,0.00%,0,0.00%,5,5,00:00:25,7
+Mexico,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,3,00:00:00,3
+Mexico,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),mobile,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,4,00:00:21,5
+Mexico,google,cpc, MIX | Txt ~ AW - Apparel,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:26,4
+Mexico,google,cpc, MIX | Txt ~ AW - Drinkware,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Mexico,google,cpc, MIX | Txt ~ AW - T-shirts (CA),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Mexico,google,cpc, MIX | Txt ~ AW - T-shirts (set 0),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Mexico,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Mexico,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Mexico,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Mexico,google,cpc, Test,desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:28,3
+Malaysia,(direct),(none),(not set),desktop,US$0.00,120,75,62.50%,0,0.00%,0,0.00%,120,120,05:00:47,266
+Malaysia,(direct),(none),(not set),mobile,US$0.00,55,29,52.73%,0,0.00%,0,0.00%,55,55,02:10:02,145
+Malaysia,(direct),(none),(not set),tablet,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,3,00:00:23,7
+Mozambique,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Namibia,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Nigeria,(direct),(none),(not set),desktop,US$0.00,34,20,58.82%,1,2.94%,0,0.00%,34,34,00:53:22,75
+Nigeria,(direct),(none),(not set),mobile,US$0.00,26,13,50.00%,0,0.00%,0,0.00%,26,26,00:43:02,50
+Nigeria,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:29,2
+Nigeria,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:26,2
+Nigeria,google,cpc, MIX | Txt ~ AW - T-shirts (set 0),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:02:04,4
+Nigeria,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Nigeria,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Nigeria,google,cpc, Test,desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:00:42,4
+Nigeria,google,cpc, Test,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Nicaragua,(direct),(none),(not set),desktop,US$0.00,9,5,55.56%,0,0.00%,0,0.00%,9,9,00:13:04,34
+Nicaragua,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:04,2
+Netherlands,(direct),(none),(not set),mobile,US$0.00,151,72,47.68%,7,4.64%,0,0.00%,151,151,08:27:54,641
+Netherlands,(direct),(none),(not set),tablet,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,6,6,00:08:25,22
+Netherlands,google,cpc, Test,desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,3,00:00:47,5
+Netherlands,google,cpc, Test,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Netherlands,Partners,affiliate,Data Share Promo,desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:10,3
+Norway,(direct),(none),(not set),desktop,US$0.00,67,33,49.25%,2,2.99%,0,0.00%,67,67,01:58:05,218
+Norway,(direct),(none),(not set),mobile,US$0.00,32,15,46.88%,0,0.00%,0,0.00%,32,32,00:42:09,105
+Norway,(direct),(none),(not set),tablet,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:03:40,4
+Norway,google,cpc, Test,desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Nepal,(direct),(none),(not set),desktop,US$0.00,20,13,65.00%,0,0.00%,0,0.00%,20,20,00:15:09,44
+Nepal,(direct),(none),(not set),mobile,US$0.00,7,7,100.00%,0,0.00%,0,0.00%,7,7,00:00:00,7
+New Zealand,(direct),(none),(not set),desktop,US$0.00,55,28,50.91%,0,0.00%,0,0.00%,55,55,02:37:45,178
+New Zealand,(direct),(none),(not set),mobile,US$0.00,24,16,66.67%,1,4.17%,0,0.00%,24,24,00:21:50,63
+New Zealand,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+New Zealand,google,cpc, Test,desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+New Zealand,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Oman,(direct),(none),(not set),desktop,US$0.00,7,3,42.86%,0,0.00%,0,0.00%,7,7,00:34:35,24
+Oman,(direct),(none),(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Panama,(direct),(none),(not set),desktop,US$0.00,27,14,51.85%,0,0.00%,0,0.00%,27,27,00:51:44,61
+Panama,(direct),(none),(not set),mobile,US$0.00,11,6,54.55%,0,0.00%,0,0.00%,11,11,00:20:52,27
+Peru,(direct),(none),(not set),desktop,US$0.00,194,111,57.22%,5,2.58%,0,0.00%,194,194,07:18:44,547
+Peru,(direct),(none),(not set),mobile,US$0.00,39,23,58.97%,0,0.00%,0,0.00%,39,39,01:34:40,100
+Peru,(direct),(none),(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:29,3
+French Polynesia,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Philippines,(direct),(none),(not set),desktop,US$0.00,134,75,55.97%,1,0.75%,0,0.00%,134,134,04:28:55,397
+Philippines,(direct),(none),(not set),mobile,US$0.00,83,52,62.65%,1,1.20%,0,0.00%,83,83,03:03:44,308
+Philippines,(direct),(none),(not set),tablet,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,5,5,00:21:40,38
+Philippines,google,cpc, MIX | Txt ~ AW - Drinkware,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Philippines,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Pakistan,(direct),(none),(not set),desktop,US$0.00,157,87,55.41%,1,0.64%,0,0.00%,157,157,05:00:55,366
+Pakistan,(direct),(none),(not set),mobile,US$0.00,76,40,52.63%,2,2.63%,0,0.00%,76,76,02:28:56,279
+Pakistan,(direct),(none),(not set),tablet,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,4,4,00:04:53,23
+Pakistan,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Pakistan,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:04:37,15
+Pakistan,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),mobile,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,6,6,00:00:21,8
+Pakistan,google,cpc, EXA | Txt ~ AW - Tumbler,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:02:50,9
+Pakistan,google,cpc, MIX | Txt ~ AW - T-shirts,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:22,12
+Pakistan,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Poland,(direct),(none),(not set),desktop,US$0.00,323,192,59.44%,3,0.93%,0,0.00%,322,323,09:23:41,901
+Poland,(direct),(none),(not set),mobile,US$0.00,92,60,65.22%,1,1.09%,0,0.00%,92,92,02:00:23,280
+Poland,(direct),(none),(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:01:55,10
+Poland,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Poland,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Poland,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+St. Pierre & Miquelon,(direct),(none),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:05:34,23
+Puerto Rico,(direct),(none),(not set),desktop,US$0.00,9,4,44.44%,0,0.00%,0,0.00%,9,9,00:16:01,30
+Puerto Rico,(direct),(none),(not set),mobile,US$0.00,10,6,60.00%,0,0.00%,0,0.00%,10,10,00:05:59,21
+Puerto Rico,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:51,4
+Puerto Rico,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Puerto Rico,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Puerto Rico,google,cpc, EXA | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Puerto Rico,google,cpc, MIX | Txt ~ AW - Drinkware,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:08,3
+Puerto Rico,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Puerto Rico,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Puerto Rico,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Palestine,(direct),(none),(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:01:17,5
+Portugal,(direct),(none),(not set),desktop,US$0.00,177,90,50.85%,4,2.26%,0,0.00%,177,177,07:18:50,540
+Portugal,(direct),(none),(not set),mobile,US$0.00,38,14,36.84%,2,5.26%,0,0.00%,38,38,01:09:21,166
+Portugal,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:10,2
+Paraguay,(direct),(none),(not set),desktop,US$0.00,9,4,44.44%,0,0.00%,0,0.00%,9,9,00:31:02,35
+Paraguay,(direct),(none),(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,2,00:00:53,5
+Qatar,(direct),(none),(not set),desktop,US$0.00,18,10,55.56%,0,0.00%,0,0.00%,18,18,00:28:51,50
+Qatar,(direct),(none),(not set),mobile,US$0.00,5,2,40.00%,1,20.00%,0,0.00%,5,5,00:25:07,52
+Qatar,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Réunion,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Réunion,(direct),(none),(not set),mobile,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:00:30,4
+Romania,(direct),(none),(not set),desktop,US$0.00,55,24,43.64%,3,5.45%,0,0.00%,55,55,02:27:44,229
+Romania,(direct),(none),(not set),mobile,US$0.00,38,21,55.26%,1,2.63%,0,0.00%,38,38,00:34:45,110
+Romania,(direct),(none),(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:56,4
+Romania,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Serbia,(direct),(none),(not set),desktop,US$0.00,18,15,83.33%,0,0.00%,0,0.00%,18,18,00:02:07,23
+Serbia,(direct),(none),(not set),mobile,US$0.00,13,10,76.92%,0,0.00%,0,0.00%,13,13,00:17:12,30
+Russia,(direct),(none),(not set),desktop,US$0.00,273,143,52.38%,3,1.10%,0,0.00%,273,273,10:02:31,857
+Russia,(direct),(none),(not set),mobile,US$0.00,94,48,51.06%,0,0.00%,0,0.00%,94,94,02:23:03,329
+Russia,(direct),(none),(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:01:45,6
+Russia,google,cpc, EXA | Txt ~ AW - Hoodies (set 1),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Russia,Partners,affiliate,Data Share Promo,desktop,US$0.00,6,3,50.00%,0,0.00%,0,0.00%,6,6,00:01:07,9
+Rwanda,(direct),(none),(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,2,00:02:29,7
+Rwanda,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:45,4
+Saudi Arabia,(direct),(none),(not set),desktop,US$0.00,49,33,67.35%,0,0.00%,0,0.00%,49,49,00:46:44,106
+Saudi Arabia,(direct),(none),(not set),mobile,US$0.00,24,12,50.00%,0,0.00%,0,0.00%,24,24,00:27:50,76
+Saudi Arabia,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:46,4
+Saudi Arabia,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Saudi Arabia,google,cpc, MIX | Txt ~ AW - T-shirts,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Saudi Arabia,google,cpc, MIX | Txt ~ AW - T-shirts (CA),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Saudi Arabia,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Saudi Arabia,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Sudan,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Sudan,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:40,6
+Sweden,(direct),(none),(not set),desktop,US$0.00,190,82,43.16%,2,1.05%,0,0.00%,190,190,07:11:36,603
+Sweden,(direct),(none),(not set),mobile,US$0.00,59,28,47.46%,0,0.00%,0,0.00%,59,59,00:57:31,168
+Sweden,(direct),(none),(not set),tablet,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,2,00:05:37,9
+Sweden,google,cpc, Test,desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,3,00:05:30,8
+Sweden,google,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:07,4
+Sweden,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Singapore,(direct),(none),(not set),desktop,US$0.00,534,253,47.38%,9,1.69%,0,0.00%,534,534,33:15:23,"1,825"
+Singapore,(direct),(none),(not set),mobile,US$0.00,147,90,61.22%,0,0.00%,0,0.00%,146,147,04:46:09,397
+Singapore,(direct),(none),(not set),tablet,US$0.00,10,3,30.00%,0,0.00%,0,0.00%,10,10,01:35:17,53
+Singapore,google,cpc, MIX | Txt ~ AW - T-shirts (set 0),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Singapore,google,cpc, Test,desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:17,6
+Singapore,Partners,affiliate,Data Share Promo,desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,4,4,00:02:40,6
+Slovenia,(direct),(none),(not set),desktop,US$0.00,12,7,58.33%,0,0.00%,0,0.00%,12,12,00:18:45,25
+Slovenia,(direct),(none),(not set),mobile,US$0.00,7,4,57.14%,0,0.00%,0,0.00%,7,7,00:12:38,29
+Slovenia,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),desktop,US$0.00,1,0,0.00%,1,100.00%,0,0.00%,1,1,00:03:34,8
+Slovakia,(direct),(none),(not set),desktop,US$0.00,58,32,55.17%,2,3.45%,0,0.00%,58,58,02:58:41,217
+Slovakia,(direct),(none),(not set),mobile,US$0.00,23,10,43.48%,0,0.00%,0,0.00%,23,23,00:34:54,78
+Sierra Leone,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+San Marino,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:47,4
+Senegal,(direct),(none),(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Senegal,(direct),(none),(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Somalia,(direct),(none),(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Suriname,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:03:20,6
+El Salvador,(direct),(none),(not set),desktop,US$0.00,14,3,21.43%,0,0.00%,0,0.00%,14,14,01:10:10,81
+El Salvador,(direct),(none),(not set),mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,3,00:08:22,7
+El Salvador,google,cpc, EXA | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+El Salvador,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Syria,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:03:45,2
+Turks & Caicos Islands,(direct),(none),(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,2,00:51:44,17
+Togo,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Thailand,(direct),(none),(not set),mobile,US$0.00,62,31,50.00%,2,3.23%,0,0.00%,61,62,02:10:01,253
+Thailand,(direct),(none),(not set),tablet,US$0.00,6,3,50.00%,0,0.00%,0,0.00%,6,6,00:18:52,14
+Thailand,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Thailand,google,cpc, MIX | Txt ~ AW - T-shirts,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:57,3
+Thailand,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Turkmenistan,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Turkmenistan,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Turkmenistan,google,cpc, Test,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Tunisia,(direct),(none),(not set),desktop,US$0.00,32,13,40.62%,0,0.00%,0,0.00%,32,32,02:46:32,107
+Tunisia,(direct),(none),(not set),mobile,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,3,3,00:04:42,9
+Tunisia,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Türkiye,(direct),(none),(not set),desktop,US$0.00,188,87,46.28%,1,0.53%,0,0.00%,188,188,10:22:38,725
+Türkiye,(direct),(none),(not set),mobile,US$0.00,77,50,64.94%,0,0.00%,0,0.00%,77,77,00:58:17,164
+Türkiye,(direct),(none),(not set),tablet,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Türkiye,google,cpc, Test,desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:36,4
+Trinidad & Tobago,(direct),(none),(not set),desktop,US$0.00,6,3,50.00%,0,0.00%,0,0.00%,6,6,00:15:48,13
+Trinidad & Tobago,(direct),(none),(not set),mobile,US$0.00,8,5,62.50%,0,0.00%,0,0.00%,8,8,00:05:10,28
+Trinidad & Tobago,(direct),(none),(not set),tablet,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,2,00:00:13,4
+Trinidad & Tobago,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Taiwan,(direct),(none),(not set),desktop,US$0.00,433,213,49.19%,4,0.92%,0,0.00%,432,433,16:08:15,"1,350"
+Taiwan,(direct),(none),(not set),mobile,US$0.00,152,74,48.68%,4,2.63%,0,0.00%,152,152,03:57:04,466
+Taiwan,(direct),(none),(not set),tablet,US$0.00,7,1,14.29%,0,0.00%,0,0.00%,7,7,01:21:06,122
+Taiwan,Partners,affiliate,Data Share Promo,desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Taiwan,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:39,5
+Tanzania,(direct),(none),(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+Tanzania,(direct),(none),(not set),mobile,US$0.00,7,6,85.71%,0,0.00%,0,0.00%,7,7,00:01:01,8
+Ukraine,(direct),(none),(not set),desktop,US$0.00,101,58,57.43%,2,1.98%,0,0.00%,101,101,03:50:42,288
+Ukraine,(direct),(none),(not set),mobile,US$0.00,31,19,61.29%,0,0.00%,0,0.00%,30,31,00:23:29,62
+Ukraine,google,cpc, Test,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:27,2
+Ukraine,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Uganda,(direct),(none),(not set),desktop,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,4,00:02:58,9
+Uganda,(direct),(none),(not set),mobile,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:00:45,4
+United States,dfa,cpm,(not set),desktop,US$0.00,112,86,76.79%,0,0.00%,0,0.00%,112,112,01:53:38,217
+United States,dfa,cpm,(not set),mobile,US$0.00,60,43,71.67%,0,0.00%,0,0.00%,60,60,00:19:51,118
+United States,dfa,cpm,(not set),tablet,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,6,6,00:05:51,15
+United States,google,cpc, BMM | Txt ~ AW - Hoodies,desktop,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,5,5,00:08:28,17
+United States,google,cpc, BMM | Txt ~ AW - Hoodies,mobile,US$0.00,160,135,84.38%,0,0.00%,0,0.00%,160,160,00:16:33,197
+United States,google,cpc, BMM | Txt ~ AW - Hoodies,tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+United States,google,cpc, BMM | Txt ~ AW - Tumbler,desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:00:06,5
+United States,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,119,101,84.87%,0,0.00%,0,0.00%,119,119,00:08:40,142
+United States,google,cpc, BMM | Txt ~ AW - Tumbler,tablet,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+United States,google,cpc, EXA | Txt ~ AW - Hoodies,mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+United States,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),desktop,US$0.00,7,5,71.43%,0,0.00%,0,0.00%,7,7,00:00:33,9
+United States,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),mobile,US$0.00,129,107,82.95%,0,0.00%,0,0.00%,129,129,00:18:28,166
+United States,google,cpc, EXA | Txt ~ AW - Hoodies (set 0),tablet,US$0.00,10,8,80.00%,0,0.00%,0,0.00%,10,10,00:03:32,12
+United States,google,cpc, EXA | Txt ~ AW - Hoodies (set 1),desktop,US$0.00,9,8,88.89%,0,0.00%,0,0.00%,9,9,00:00:15,10
+United States,google,cpc, EXA | Txt ~ AW - Hoodies (set 1),mobile,US$0.00,89,76,85.39%,0,0.00%,0,0.00%,89,89,00:45:07,117
+United States,google,cpc, EXA | Txt ~ AW - Hoodies (set 1),tablet,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,4,00:00:23,5
+United States,google,cpc, EXA | Txt ~ AW - Tumbler,desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,3,00:00:00,3
+United States,google,cpc, EXA | Txt ~ AW - Tumbler,mobile,US$0.00,143,129,90.21%,0,0.00%,0,0.00%,143,143,00:10:08,165
+United States,google,cpc, EXA | Txt ~ AW - Tumbler,tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+United States,google,cpc, EXA | Txt ~ AW - YouTube,desktop,US$0.00,168,91,54.17%,0,0.00%,0,0.00%,168,168,03:25:23,467
+United States,google,cpc, EXA | Txt ~ AW - YouTube,mobile,US$0.00,330,193,58.48%,2,0.61%,0,0.00%,330,330,04:46:31,784
+United States,google,cpc, EXA | Txt ~ AW - YouTube,tablet,US$0.00,29,18,62.07%,0,0.00%,0,0.00%,29,29,00:59:13,76
+United States,google,cpc, MIX | Txt ~ AW - Android Brand,desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,2,00:01:52,4
+United States,google,cpc, MIX | Txt ~ AW - Android Brand,mobile,US$0.00,10,5,50.00%,0,0.00%,0,0.00%,10,10,00:07:59,35
+United States,google,cpc, MIX | Txt ~ AW - Bags,desktop,US$0.00,5,1,20.00%,0,0.00%,0,0.00%,5,5,00:08:15,35
+United States,google,cpc, MIX | Txt ~ AW - Bags,mobile,US$0.00,11,3,27.27%,0,0.00%,0,0.00%,11,11,00:14:06,36
+United States,google,cpc, MIX | Txt ~ AW - Drinkware,desktop,US$0.00,12,5,41.67%,0,0.00%,0,0.00%,12,12,00:19:39,64
+United States,google,cpc, MIX | Txt ~ AW - Drinkware,mobile,US$0.00,80,55,68.75%,0,0.00%,0,0.00%,80,80,00:33:03,150
+United States,google,cpc, MIX | Txt ~ AW - Drinkware,tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:00:28,4
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (CA),desktop,US$0.00,9,8,88.89%,0,0.00%,0,0.00%,9,9,00:00:08,10
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (CA),mobile,US$0.00,64,55,85.94%,0,0.00%,0,0.00%,64,64,00:09:27,81
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (CA),tablet,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,4,00:00:16,5
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (set 0),desktop,US$0.00,8,7,87.50%,0,0.00%,0,0.00%,8,8,00:03:44,15
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (set 0),mobile,US$0.00,164,140,85.37%,0,0.00%,0,0.00%,164,164,00:37:25,207
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),mobile,US$0.00,176,160,90.91%,0,0.00%,0,0.00%,176,176,00:11:30,207
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (set 1),tablet,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),desktop,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,5,5,00:01:54,7
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,90,78,86.67%,0,0.00%,0,0.00%,90,90,00:11:48,118
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),tablet,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:00:14,4
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:00:06,4
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),mobile,US$0.00,137,116,84.67%,0,0.00%,0,0.00%,137,137,00:37:25,181
+United States,google,cpc, MIX | Txt ~ AW - T-shirts (set 3),tablet,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,2,00:00:00,2
+United States,google,cpc, MIX | Txt ~ AW - YouTube,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:07:08,13
+United States,google,cpc, MIX | Txt ~ AW - YouTube,mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:12:45,7
+United States,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),tablet,US$0.00,4,1,25.00%,0,0.00%,0,0.00%,4,4,00:24:53,65
+United States,google,cpc, PHR | Txt ~ AW - YouTube,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:04:45,12
+United States,google,cpc, PHR | Txt ~ AW - YouTube,tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:02:16,8
+United States,google,cpc, Test,desktop,US$0.00,"4,392","3,780",86.07%,7,0.16%,0,0.00%,"4,392","4,392",33:29:38,"6,246"
+United States,google,cpc, Test,mobile,US$0.00,56,43,76.79%,0,0.00%,0,0.00%,56,56,00:49:23,91
+United States,google,cpc, Test,tablet,US$0.00,12,11,91.67%,0,0.00%,0,0.00%,12,12,00:00:38,12
+United States,google,cpc,(not set),desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,3,00:00:00,3
+United States,Partners,affiliate,Data Share Promo,desktop,US$0.00,22,19,86.36%,0,0.00%,0,0.00%,22,22,00:08:09,27
+United States,Partners,affiliate,Data Share Promo,mobile,US$0.00,4,1,25.00%,0,0.00%,0,0.00%,4,4,00:21:48,11
+Uruguay,(direct),(none),(not set),desktop,US$0.00,16,8,50.00%,0,0.00%,0,0.00%,16,16,00:43:24,47
+Uruguay,(direct),(none),(not set),mobile,US$0.00,6,1,16.67%,0,0.00%,0,0.00%,6,6,00:12:36,28
+Uzbekistan,(direct),(none),(not set),desktop,US$0.00,16,5,31.25%,0,0.00%,0,0.00%,16,16,00:33:15,54
+Uzbekistan,(direct),(none),(not set),mobile,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,5,5,00:00:28,7
+Vatican City,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Venezuela,(direct),(none),(not set),desktop,US$0.00,19,8,42.11%,0,0.00%,0,0.00%,19,19,01:29:20,116
+Venezuela,(direct),(none),(not set),mobile,US$0.00,4,0,0.00%,0,0.00%,0,0.00%,4,4,00:29:04,24
+Venezuela,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:00:44,2
+U.S. Virgin Islands,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,1,00:01:08,3
+U.S. Virgin Islands,(direct),(none),(not set),tablet,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,2,00:00:46,7
+U.S. Virgin Islands,google,cpc, BMM | Txt ~ AW - Tumbler,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Vietnam,(direct),(none),(not set),desktop,US$0.00,81,46,56.79%,4,4.94%,0,0.00%,80,81,02:47:38,267
+Vietnam,(direct),(none),(not set),mobile,US$0.00,23,9,39.13%,0,0.00%,0,0.00%,23,23,00:33:44,71
+Vietnam,google,cpc, MIX | Txt ~ AW - T-shirts (CA),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Vanuatu,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Kosovo,(direct),(none),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:16:42,5
+Kosovo,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+Yemen,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+South Africa,(direct),(none),(not set),desktop,US$0.00,60,42,70.00%,1,1.67%,0,0.00%,60,60,01:54:30,146
+South Africa,(direct),(none),(not set),mobile,US$0.00,30,18,60.00%,0,0.00%,0,0.00%,30,30,00:32:05,64
+South Africa,google,cpc, MIX | Txt ~ AW - T-shirts (set 2),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,1,00:00:00,1
+South Africa,google,cpc, Test,desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,3,00:08:37,9
+Zambia,(direct),(none),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,2,00:06:22,3
+(not set),(direct),(none),(not set),desktop,US$0.00,11,2,18.18%,0,0.00%,0,0.00%,11,11,00:15:04,29
+(not set),(direct),(none),(not set),mobile,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,3,00:02:24,12
