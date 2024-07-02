@@ -1,0 +1,800 @@
+# ----------------------------------------
+# 1 Master View
+# Sessions - Details of User - Export by Month
+# 20191201-20191231
+# ----------------------------------------
+
+Country,Source,Medium,Campaign,Device Category,Total Value,Sessions,Bounces,Bounce Rate,Entered Checkout (Goal 4 Completions),Entered Checkout (Goal 4 Conversion Rate),Transactions,E-commerce Conversion Rate,Users,New Users,Session Duration,Page Views
+United States,google,organic,(not set),mobile,US$475.25,"1,187",544,45.83%,34,2.86%,12,1.01%,817,0,56:31:16,"5,847"
+United States,(direct),(none),(not set),mobile,US$416.00,567,345,60.85%,18,3.17%,7,1.23%,348,0,26:40:40,"2,310"
+United States,(direct),(none),(not set),desktop,US$202.50,"1,463",476,32.54%,44,3.01%,6,0.41%,926,0,88:27:53,"7,999"
+United States,(direct),(none),(not set),tablet,US$134.00,42,24,57.14%,3,7.14%,2,4.76%,22,0,01:59:50,198
+United States,google,organic,(not set),tablet,US$127.00,53,21,39.62%,2,3.77%,2,3.77%,36,0,03:33:20,388
+United States,yahoo,organic,(not set),tablet,US$127.00,4,1,25.00%,1,25.00%,1,25.00%,2,0,00:42:36,40
+United States,google,organic,(not set),desktop,US$124.20,"2,879",773,26.85%,109,3.79%,3,0.10%,"1,745",0,235:10:29,"20,221"
+Cambodia,google,organic,(not set),mobile,US$104.00,3,0,0.00%,1,33.33%,1,33.33%,2,0,00:40:28,74
+United States,google,cpc, MIX | Txt ~ AW - Apparel,mobile,US$98.00,45,17,37.78%,1,2.22%,2,4.44%,32,0,03:29:50,240
+United States,(not set),(not set),(not set),mobile,US$52.00,85,37,43.53%,2,2.35%,1,1.18%,70,0,04:39:56,386
+United Arab Emirates,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:41,4
+United Arab Emirates,analytics.google.com,referral,(not set),desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,3,0,00:09:17,11
+United Arab Emirates,baidu,organic,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+United Arab Emirates,baidu,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+United Arab Emirates,google,organic,(not set),desktop,US$0.00,20,9,45.00%,0,0.00%,0,0.00%,15,0,00:57:31,38
+United Arab Emirates,google,organic,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:55,9
+United Arab Emirates,google,organic,(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:06:47,17
+Albania,google,organic,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:10:36,2
+Armenia,blog.golang.org,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Argentina,(direct),(none),(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:44:00,7
+Argentina,(direct),(none),(not set),mobile,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,3
+Argentina,analytics.google.com,referral,(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,0,00:00:07,4
+Argentina,google,organic,(not set),desktop,US$0.00,25,14,56.00%,0,0.00%,0,0.00%,22,0,00:57:31,48
+Argentina,mall.googleplex.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:49,3
+Argentina,Partners,affiliate,Data Share Promo,desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,1,0,00:00:48,4
+Austria,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:39,3
+Austria,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Austria,(not set),(not set),(not set),desktop,US$0.00,3,1,33.33%,1,33.33%,0,0.00%,2,0,00:11:30,19
+Austria,analytics.google.com,referral,(not set),desktop,US$0.00,4,1,25.00%,0,0.00%,0,0.00%,4,0,00:25:18,12
+Austria,google,organic,(not set),desktop,US$0.00,19,12,63.16%,0,0.00%,0,0.00%,16,0,00:36:34,38
+Austria,google,organic,(not set),mobile,US$0.00,9,8,88.89%,0,0.00%,0,0.00%,8,0,00:00:53,10
+Australia,(direct),(none),(not set),desktop,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,4,0,00:09:46,12
+Australia,(direct),(none),(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:16:42,13
+Australia,(not set),(not set),(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Australia,(not set),(not set),(not set),mobile,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,3,0,00:15:09,23
+Australia,baidu,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Australia,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,1,0,00:00:51,4
+Australia,google,organic,(not set),desktop,US$0.00,63,28,44.44%,0,0.00%,0,0.00%,47,0,04:00:25,307
+Australia,google,organic,(not set),mobile,US$0.00,34,17,50.00%,1,2.94%,0,0.00%,30,0,01:53:16,100
+Australia,google,organic,(not set),tablet,US$0.00,5,4,80.00%,0,0.00%,0,0.00%,2,0,00:19:41,6
+Australia,google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:08:46,10
+Australia,groups.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Australia,int.search.tb.ask.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:22:13,14
+Australia,mall.googleplex.com,referral,(not set),desktop,US$0.00,7,0,0.00%,0,0.00%,0,0.00%,5,0,00:15:22,39
+Australia,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:26:23,2
+Australia,support.google.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:08:15,7
+Azerbaijan,google,organic,(not set),desktop,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,2,0,00:25:47,16
+Azerbaijan,google,organic,(not set),mobile,US$0.00,5,1,20.00%,0,0.00%,0,0.00%,1,0,00:08:48,12
+Bosnia & Herzegovina,analytics.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Bosnia & Herzegovina,google,organic,(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:00:10,5
+Bangladesh,google,organic,(not set),desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,4,0,00:07:00,11
+Bangladesh,google,organic,(not set),mobile,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,3
+Bangladesh,Partners,affiliate,Data Share Promo,mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,1,0,00:08:06,10
+Belgium,(direct),(none),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,1,0,00:00:03,3
+Belgium,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:42,6
+Belgium,(not set),(not set),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Belgium,analytics.google.com,referral,(not set),desktop,US$0.00,11,7,63.64%,0,0.00%,0,0.00%,11,0,00:04:02,22
+Belgium,google,organic,(not set),desktop,US$0.00,51,36,70.59%,1,1.96%,0,0.00%,36,0,02:12:47,133
+Belgium,google,organic,(not set),mobile,US$0.00,7,3,42.86%,1,14.29%,0,0.00%,6,0,00:22:33,31
+Belgium,Partners,affiliate,Data Share Promo,desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:34:55,7
+Bulgaria,(not set),(not set),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:04:01,2
+Bulgaria,analytics.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Bulgaria,google,organic,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Bulgaria,google,organic,(not set),mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:02:53,16
+Bermuda,google,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:57,3
+Brunei,(not set),(not set),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:03:23,9
+Brunei,google,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Brazil,(direct),(none),(not set),desktop,US$0.00,18,2,11.11%,0,0.00%,0,0.00%,14,0,01:14:46,127
+Brazil,(direct),(none),(not set),mobile,US$0.00,5,1,20.00%,0,0.00%,0,0.00%,4,0,00:18:30,16
+Brazil,(not set),(not set),(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:24:35,29
+Brazil,(not set),(not set),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:56,3
+Brazil,(not set),(not set),(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,1,0,00:02:33,3
+Brazil,analytics.google.com,referral,(not set),desktop,US$0.00,10,4,40.00%,0,0.00%,0,0.00%,7,0,00:58:31,29
+Brazil,baidu,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Brazil,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Brazil,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Brazil,creatoracademy.youtube.com,referral,(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:24:29,2
+Brazil,developers.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:07:23,3
+Brazil,google,organic,(not set),desktop,US$0.00,49,24,48.98%,0,0.00%,0,0.00%,36,0,03:51:40,222
+Brazil,google,organic,(not set),mobile,US$0.00,15,10,66.67%,0,0.00%,0,0.00%,9,0,00:02:10,24
+Brazil,google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:13,2
+Brazil,mall.googleplex.com,referral,(not set),desktop,US$0.00,7,0,0.00%,0,0.00%,0,0.00%,3,0,00:45:56,116
+Brazil,Partners,affiliate,Data Share Promo,desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,0,00:00:00,3
+Brazil,youtube.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Belarus,google,organic,(not set),desktop,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,3,0,00:15:39,28
+Belarus,google,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Canada,(direct),(none),(not set),desktop,US$0.00,68,22,32.35%,5,7.35%,0,0.00%,39,0,06:10:33,420
+Canada,(direct),(none),(not set),mobile,US$0.00,24,15,62.50%,0,0.00%,0,0.00%,20,0,00:24:39,64
+Canada,(direct),(none),(not set),tablet,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,3,0,00:13:34,25
+Canada,(not set),(not set),(not set),desktop,US$0.00,29,9,31.03%,1,3.45%,0,0.00%,22,0,02:08:36,148
+Canada,(not set),(not set),(not set),mobile,US$0.00,9,1,11.11%,0,0.00%,0,0.00%,8,0,00:23:50,73
+Canada,analytics.google.com,referral,(not set),desktop,US$0.00,33,18,54.55%,0,0.00%,0,0.00%,26,0,02:37:05,100
+Canada,bing,organic,(not set),desktop,US$0.00,7,4,57.14%,1,14.29%,0,0.00%,4,0,01:11:27,29
+Canada,ca.search.yahoo.com,referral,(not set),desktop,US$0.00,5,1,20.00%,0,0.00%,0,0.00%,3,0,00:34:26,34
+Canada,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Canada,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,7,6,85.71%,0,0.00%,0,0.00%,2,0,00:00:16,8
+Canada,dfa,cpm,(not set),desktop,US$0.00,15,10,66.67%,0,0.00%,0,0.00%,11,0,00:47:14,52
+Canada,dfa,cpm,(not set),mobile,US$0.00,12,8,66.67%,0,0.00%,0,0.00%,11,0,00:08:44,23
+Canada,dfa,cpm,(not set),tablet,US$0.00,16,12,75.00%,0,0.00%,0,0.00%,13,0,00:02:56,26
+Canada,duckduckgo,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Canada,google,organic,(not set),desktop,US$0.00,216,69,31.94%,4,1.85%,0,0.00%,142,0,16:21:05,"1,159"
+Canada,google,organic,(not set),mobile,US$0.00,101,52,51.49%,8,7.92%,0,0.00%,73,0,06:41:42,631
+Canada,google,organic,(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:03:43,11
+Canada,google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Canada,groups.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Canada,linkedin.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Canada,mall.googleplex.com,referral,(not set),desktop,US$0.00,73,15,20.55%,4,5.48%,0,0.00%,52,0,06:58:48,686
+Canada,mall.googleplex.com,referral,(not set),mobile,US$0.00,2,0,0.00%,1,50.00%,0,0.00%,2,0,00:37:55,39
+Canada,old.reddit.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Canada,optimize.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Canada,Partners,affiliate,Data Share Promo,desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,4,0,00:28:53,11
+Canada,plus.google.com,referral,(not set),desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,0,00:00:00,3
+Canada,reddit.com,referral,(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:00:29,4
+Canada,support.google.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,1,0,00:04:35,11
+Canada,wikihow.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Canada,youtube.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Switzerland,(direct),(none),(not set),desktop,US$0.00,14,7,50.00%,0,0.00%,0,0.00%,11,0,00:07:37,34
+Switzerland,(direct),(none),(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,1,0,00:05:28,11
+Switzerland,(not set),(not set),(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:02:18,16
+Switzerland,(not set),(not set),(not set),mobile,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,3,0,00:07:07,21
+Switzerland,analytics.google.com,referral,(not set),desktop,US$0.00,7,2,28.57%,0,0.00%,0,0.00%,5,0,00:06:40,18
+Switzerland,google,organic,(not set),desktop,US$0.00,60,28,46.67%,2,3.33%,0,0.00%,44,0,03:57:33,381
+Switzerland,google,organic,(not set),mobile,US$0.00,8,4,50.00%,0,0.00%,0,0.00%,7,0,00:03:00,14
+Switzerland,google,organic,(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:26,4
+Switzerland,google.com,referral,(not set),desktop,US$0.00,6,2,33.33%,1,16.67%,0,0.00%,3,0,00:24:23,42
+Switzerland,mail.google.com,referral,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,1,0,00:00:41,3
+Switzerland,mall.googleplex.com,referral,(not set),desktop,US$0.00,15,3,20.00%,1,6.67%,0,0.00%,14,0,00:36:13,95
+Switzerland,Partners,affiliate,Data Share Promo,desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Switzerland,support.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Chile,(direct),(none),(not set),desktop,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,3,0,00:06:54,21
+Chile,(direct),(none),(not set),mobile,US$0.00,5,5,100.00%,0,0.00%,0,0.00%,3,0,00:00:00,5
+Chile,(not set),(not set),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:06:02,13
+Chile,analytics.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Chile,google,organic,(not set),desktop,US$0.00,14,11,78.57%,0,0.00%,0,0.00%,9,0,00:01:15,17
+Chile,google,organic,(not set),mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:03:14,10
+Chile,Partners,affiliate,Data Share Promo,desktop,US$0.00,5,3,60.00%,1,20.00%,0,0.00%,3,0,00:11:32,10
+Cameroon,analytics.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+China,(direct),(none),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:15:58,5
+China,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+China,analytics.google.com,referral,(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,1,0,00:28:26,15
+China,baidu,organic,(not set),desktop,US$0.00,7,5,71.43%,0,0.00%,0,0.00%,7,0,00:01:17,9
+China,baidu,organic,(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:22:39,5
+China,google,cpc, MIX | Txt ~ AW - Accessories,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+China,google,organic,(not set),desktop,US$0.00,23,12,52.17%,0,0.00%,0,0.00%,18,0,01:42:45,74
+China,google,organic,(not set),mobile,US$0.00,3,1,33.33%,1,33.33%,0,0.00%,2,0,00:20:38,19
+China,mall.googleplex.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:06:32,9
+Colombia,(direct),(none),(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,0,00:01:57,4
+Colombia,(not set),(not set),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:50,2
+Colombia,analytics.google.com,referral,(not set),desktop,US$0.00,11,7,63.64%,0,0.00%,0,0.00%,8,0,00:08:06,20
+Colombia,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Colombia,google,organic,(not set),desktop,US$0.00,38,21,55.26%,0,0.00%,0,0.00%,24,0,02:32:59,103
+Colombia,google,organic,(not set),mobile,US$0.00,5,0,0.00%,0,0.00%,0,0.00%,5,0,01:03:12,31
+Costa Rica,(direct),(none),(not set),desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,3,0,00:07:41,21
+Costa Rica,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:13:24,58
+Costa Rica,bing,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:47,8
+Costa Rica,duckduckgo,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:16:26,6
+Costa Rica,google,organic,(not set),desktop,US$0.00,8,1,12.50%,1,12.50%,0,0.00%,6,0,01:21:33,90
+Costa Rica,google,organic,(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,1,0,00:04:57,16
+Costa Rica,lm.facebook.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Cyprus,google,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Cyprus,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:03:17,4
+Czechia,(not set),(not set),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Czechia,analytics.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Czechia,google,organic,(not set),desktop,US$0.00,8,4,50.00%,0,0.00%,0,0.00%,6,0,00:02:36,15
+Czechia,google,organic,(not set),mobile,US$0.00,9,4,44.44%,0,0.00%,0,0.00%,6,0,00:18:11,29
+Czechia,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:05:46,2
+Czechia,quora.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Czechia,youtube.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:44,3
+Germany,(direct),(none),(not set),desktop,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,4,0,00:26:03,24
+Germany,(direct),(none),(not set),mobile,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,3,0,00:00:00,4
+Germany,(not set),(not set),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:09:07,6
+Germany,(not set),(not set),(not set),mobile,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,3,0,00:01:46,9
+Germany,(not set),(not set),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:27,4
+Germany,analytics.google.com,referral,(not set),desktop,US$0.00,13,5,38.46%,0,0.00%,0,0.00%,11,0,00:16:09,30
+Germany,baidu,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Germany,bing,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Germany,bing,organic,(not set),mobile,US$0.00,5,1,20.00%,0,0.00%,0,0.00%,3,0,00:19:04,15
+Germany,bing,organic,(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Germany,duckduckgo,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Germany,google,organic,(not set),desktop,US$0.00,144,94,65.28%,0,0.00%,0,0.00%,111,0,04:24:16,326
+Germany,google,organic,(not set),mobile,US$0.00,89,67,75.28%,0,0.00%,0,0.00%,64,0,02:05:27,211
+Germany,google,organic,(not set),tablet,US$0.00,8,3,37.50%,0,0.00%,0,0.00%,7,0,01:45:13,53
+Germany,google.com,referral,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:01:28,9
+Germany,groups.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:49,3
+Germany,mall.googleplex.com,referral,(not set),desktop,US$0.00,14,6,42.86%,2,14.29%,0,0.00%,11,0,01:31:24,130
+Germany,mall.googleplex.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Germany,Partners,affiliate,Data Share Promo,desktop,US$0.00,7,2,28.57%,0,0.00%,0,0.00%,7,0,00:39:02,32
+Germany,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Germany,quora.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:30,7
+Germany,support.google.com,referral,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Denmark,(direct),(none),(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,1,0,00:14:43,40
+Denmark,(direct),(none),(not set),mobile,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,4
+Denmark,analytics.google.com,referral,(not set),desktop,US$0.00,10,7,70.00%,0,0.00%,0,0.00%,9,0,00:54:59,30
+Denmark,google,organic,(not set),desktop,US$0.00,25,21,84.00%,0,0.00%,0,0.00%,21,0,00:05:12,31
+Denmark,google,organic,(not set),mobile,US$0.00,7,6,85.71%,0,0.00%,0,0.00%,4,0,00:03:46,15
+Denmark,mall.googleplex.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:11:14,26
+Denmark,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Dominican Republic,(not set),(not set),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Dominican Republic,google,organic,(not set),desktop,US$0.00,6,3,50.00%,0,0.00%,0,0.00%,5,0,00:21:32,33
+Dominican Republic,google,organic,(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:16:45,15
+Ecuador,(direct),(none),(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:31,23
+Ecuador,campus.obs-edu.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Ecuador,google,organic,(not set),desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,4,0,00:14:06,8
+Ecuador,google,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Ecuador,mall.googleplex.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:06:48,6
+Estonia,google,organic,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Estonia,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Egypt,(direct),(none),(not set),desktop,US$0.00,3,1,33.33%,1,33.33%,0,0.00%,1,0,00:50:26,28
+Egypt,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:04:02,4
+Egypt,google,organic,(not set),desktop,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,5,0,00:34:48,13
+Spain,(direct),(none),(not set),desktop,US$0.00,9,4,44.44%,0,0.00%,0,0.00%,8,0,00:32:06,29
+Spain,(direct),(none),(not set),mobile,US$0.00,6,6,100.00%,0,0.00%,0,0.00%,6,0,00:00:00,6
+Spain,(not set),(not set),(not set),desktop,US$0.00,9,3,33.33%,0,0.00%,0,0.00%,8,0,00:53:53,23
+Spain,(not set),(not set),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:11,2
+Spain,analytics.google.com,referral,(not set),desktop,US$0.00,46,22,47.83%,0,0.00%,0,0.00%,39,0,01:57:44,110
+Spain,bing,organic,(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:00:16,5
+Spain,campusvirtual.ub.edu,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:27,4
+Spain,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:03,3
+Spain,developers.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:35,2
+Spain,google,organic,(not set),desktop,US$0.00,221,137,61.99%,2,0.90%,0,0.00%,155,0,10:02:06,545
+Spain,google,organic,(not set),mobile,US$0.00,23,19,82.61%,0,0.00%,0,0.00%,18,0,00:21:53,36
+Spain,google,organic,(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:40,3
+Spain,mall.googleplex.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Spain,Partners,affiliate,Data Share Promo,desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,0,00:01:27,5
+Spain,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Spain,t.co,referral,(not set),desktop,US$0.00,13,12,92.31%,0,0.00%,0,0.00%,3,0,00:02:32,15
+Ethiopia,google,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Finland,(direct),(none),(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:00:29,7
+Finland,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Finland,analytics.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Finland,google,organic,(not set),desktop,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,6,0,00:07:00,11
+Finland,google,organic,(not set),mobile,US$0.00,7,5,71.43%,0,0.00%,0,0.00%,4,0,00:01:29,10
+Finland,mall.googleplex.com,referral,(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,1,0,00:07:51,18
+Finland,Partners,affiliate,Data Share Promo,desktop,US$0.00,10,6,60.00%,0,0.00%,0,0.00%,8,0,00:08:19,21
+France,(direct),(none),(not set),desktop,US$0.00,28,11,39.29%,0,0.00%,0,0.00%,19,0,02:23:26,104
+France,(direct),(none),(not set),mobile,US$0.00,9,5,55.56%,0,0.00%,0,0.00%,8,0,00:12:43,43
+France,(not set),(not set),(not set),desktop,US$0.00,12,7,58.33%,0,0.00%,0,0.00%,11,0,00:27:29,31
+France,(not set),(not set),(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:03:10,10
+France,(not set),(not set),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+France,analytics.google.com,referral,(not set),desktop,US$0.00,77,30,38.96%,0,0.00%,0,0.00%,54,0,08:55:01,291
+France,analytics.google.com,referral,(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+France,bing,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+France,blog.golang.org,referral,(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,2,0,00:00:24,5
+France,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+France,getpocket.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:52:09,45
+France,google,organic,(not set),desktop,US$0.00,270,151,55.93%,0,0.00%,0,0.00%,171,0,15:45:59,814
+France,google,organic,(not set),mobile,US$0.00,32,18,56.25%,0,0.00%,0,0.00%,27,0,01:43:21,114
+France,google,organic,(not set),tablet,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,2,0,00:00:02,4
+France,mall.googleplex.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:05:40,21
+France,optimize.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+France,Partners,affiliate,Data Share Promo,desktop,US$0.00,10,7,70.00%,1,10.00%,0,0.00%,8,0,00:33:08,28
+France,support.google.com,referral,(not set),desktop,US$0.00,6,1,16.67%,0,0.00%,0,0.00%,2,0,00:34:00,34
+France,youtube.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+United Kingdom,(direct),(none),(not set),desktop,US$0.00,38,14,36.84%,0,0.00%,0,0.00%,31,0,01:18:20,146
+United Kingdom,(direct),(none),(not set),mobile,US$0.00,28,18,64.29%,1,3.57%,0,0.00%,23,0,00:21:52,77
+United Kingdom,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+United Kingdom,(not set),(not set),(not set),desktop,US$0.00,9,3,33.33%,0,0.00%,0,0.00%,9,0,01:07:07,52
+United Kingdom,(not set),(not set),(not set),mobile,US$0.00,16,6,37.50%,0,0.00%,0,0.00%,15,0,00:14:45,40
+United Kingdom,analytics.google.com,referral,(not set),desktop,US$0.00,40,14,35.00%,0,0.00%,0,0.00%,20,0,02:58:16,111
+United Kingdom,bing,organic,(not set),desktop,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,2,0,00:00:26,6
+United Kingdom,dfa,cpm,(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:09,18
+United Kingdom,docs.google.com,referral,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
+United Kingdom,google,cpc, MIX | Txt ~ AW - Accessories,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:09:08,23
+United Kingdom,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),desktop,US$0.00,12,1,8.33%,0,0.00%,0,0.00%,7,0,01:58:05,109
+United Kingdom,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),mobile,US$0.00,12,5,41.67%,0,0.00%,0,0.00%,6,0,00:47:41,58
+United Kingdom,google,organic,(not set),desktop,US$0.00,293,168,57.34%,6,2.05%,0,0.00%,192,0,17:05:31,"1,133"
+United Kingdom,google,organic,(not set),mobile,US$0.00,165,110,66.67%,1,0.61%,0,0.00%,131,0,03:29:55,388
+United Kingdom,google,organic,(not set),tablet,US$0.00,11,9,81.82%,0,0.00%,0,0.00%,9,0,00:00:51,14
+United Kingdom,google.com,referral,(not set),desktop,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,2,0,00:12:38,7
+United Kingdom,groups.google.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:04:24,13
+United Kingdom,mall.googleplex.com,referral,(not set),desktop,US$0.00,78,11,14.10%,5,6.41%,0,0.00%,58,0,06:19:06,621
+United Kingdom,optimize.google.com,referral,(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,1,0,00:00:49,6
+United Kingdom,Partners,affiliate,Data Share Promo,desktop,US$0.00,6,6,100.00%,0,0.00%,0,0.00%,6,0,00:00:00,6
+United Kingdom,reddit.com,referral,(not set),mobile,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,4
+United Kingdom,support.google.com,referral,(not set),desktop,US$0.00,2,0,0.00%,1,50.00%,0,0.00%,2,0,00:27:39,54
+Grenada,google,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:41,3
+Georgia,analytics.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:43,2
+Georgia,google,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Greece,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:22:55,2
+Greece,(not set),(not set),(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Greece,analytics.google.com,referral,(not set),desktop,US$0.00,19,12,63.16%,1,5.26%,0,0.00%,9,0,01:28:28,71
+Greece,google,organic,(not set),desktop,US$0.00,40,32,80.00%,0,0.00%,0,0.00%,28,0,01:49:14,76
+Greece,google,organic,(not set),mobile,US$0.00,8,7,87.50%,0,0.00%,0,0.00%,5,0,00:01:17,11
+Greece,l.facebook.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Greece,Partners,affiliate,Data Share Promo,desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,4,0,00:15:22,7
+Guatemala,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Guatemala,google,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:05:50,20
+Hong Kong,(direct),(none),(not set),desktop,US$0.00,8,5,62.50%,0,0.00%,0,0.00%,7,0,00:39:17,104
+Hong Kong,(direct),(none),(not set),mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:01:43,7
+Hong Kong,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:06:35,14
+Hong Kong,(not set),(not set),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Hong Kong,analytics.google.com,referral,(not set),desktop,US$0.00,5,3,60.00%,0,0.00%,0,0.00%,5,0,00:29:00,7
+Hong Kong,baidu,organic,(not set),desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,3
+Hong Kong,baidu,organic,(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Hong Kong,baidu.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Hong Kong,google,organic,(not set),desktop,US$0.00,36,10,27.78%,2,5.56%,0,0.00%,18,0,03:44:33,327
+Hong Kong,google,organic,(not set),mobile,US$0.00,13,8,61.54%,0,0.00%,0,0.00%,9,0,00:51:08,88
+Hong Kong,google,organic,(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Hong Kong,google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:35:46,10
+Hong Kong,optimize.google.com,referral,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
+Hong Kong,yahoo,organic,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:03:27,13
+Honduras,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:08:00,4
+Honduras,google,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:25,2
+Croatia,(direct),(none),(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Croatia,analytics.google.com,referral,(not set),desktop,US$0.00,7,3,42.86%,0,0.00%,0,0.00%,4,0,00:46:01,38
+Croatia,google,organic,(not set),desktop,US$0.00,18,14,77.78%,0,0.00%,0,0.00%,11,0,00:07:00,27
+Croatia,google,organic,(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Hungary,(direct),(none),(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
+Hungary,analytics.google.com,referral,(not set),desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,2,0,00:32:31,31
+Hungary,google,organic,(not set),desktop,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,4
+Indonesia,(direct),(none),(not set),desktop,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,4,0,00:05:43,16
+Indonesia,(direct),(none),(not set),mobile,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,3,0,00:01:00,8
+Indonesia,(not set),(not set),(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,2,0,00:02:21,5
+Indonesia,(not set),(not set),(not set),mobile,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,3
+Indonesia,analytics.google.com,referral,(not set),desktop,US$0.00,19,9,47.37%,1,5.26%,0,0.00%,5,0,02:43:37,92
+Indonesia,baidu,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Indonesia,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:36:12,80
+Indonesia,google,organic,(not set),desktop,US$0.00,53,24,45.28%,0,0.00%,0,0.00%,35,0,07:18:31,298
+Indonesia,google,organic,(not set),mobile,US$0.00,36,21,58.33%,1,2.78%,0,0.00%,23,0,02:41:41,115
+Indonesia,Partners,affiliate,Data Share Promo,desktop,US$0.00,4,1,25.00%,0,0.00%,0,0.00%,3,0,00:37:29,23
+Ireland,(direct),(none),(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,0,00:05:37,18
+Ireland,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:03:59,2
+Ireland,(not set),(not set),(not set),desktop,US$0.00,20,9,45.00%,0,0.00%,0,0.00%,10,0,00:24:48,55
+Ireland,analytics.google.com,referral,(not set),desktop,US$0.00,12,7,58.33%,1,8.33%,0,0.00%,5,0,00:14:06,31
+Ireland,dfa,cpm,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Ireland,displayvideo.google.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,1,0,00:07:53,8
+Ireland,google,organic,(not set),desktop,US$0.00,101,64,63.37%,1,0.99%,0,0.00%,67,0,03:44:37,267
+Ireland,google,organic,(not set),mobile,US$0.00,23,14,60.87%,0,0.00%,0,0.00%,16,0,01:34:57,102
+Ireland,google,organic,(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Ireland,mall.googleplex.com,referral,(not set),desktop,US$0.00,6,1,16.67%,1,16.67%,0,0.00%,6,0,00:48:37,44
+Ireland,Partners,affiliate,Data Share Promo,desktop,US$0.00,7,6,85.71%,0,0.00%,0,0.00%,5,0,00:14:14,9
+Ireland,support.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Ireland,tagmanager.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Israel,(direct),(none),(not set),desktop,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,2,0,00:26:28,45
+Israel,(not set),(not set),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:20,2
+Israel,analytics.google.com,referral,(not set),desktop,US$0.00,18,9,50.00%,0,0.00%,0,0.00%,14,0,00:58:28,45
+Israel,google,organic,(not set),desktop,US$0.00,29,15,51.72%,0,0.00%,0,0.00%,19,0,02:08:29,134
+Israel,google,organic,(not set),mobile,US$0.00,6,3,50.00%,0,0.00%,0,0.00%,3,0,00:17:12,22
+Israel,Partners,affiliate,Data Share Promo,desktop,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,0,00:01:47,8
+Israel,yahoo,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+India,(direct),(none),(not set),desktop,US$0.00,64,15,23.44%,2,3.12%,0,0.00%,37,0,05:57:13,266
+India,(direct),(none),(not set),mobile,US$0.00,36,23,63.89%,0,0.00%,0,0.00%,26,0,01:33:32,74
+India,(not set),(not set),(not set),desktop,US$0.00,38,16,42.11%,0,0.00%,0,0.00%,36,0,01:45:49,128
+India,(not set),(not set),(not set),mobile,US$0.00,37,15,40.54%,0,0.00%,0,0.00%,32,0,01:01:21,163
+India,(not set),(not set),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+India,analytics.google.com,referral,(not set),desktop,US$0.00,33,16,48.48%,0,0.00%,0,0.00%,26,0,02:21:47,84
+India,bing,organic,(not set),desktop,US$0.00,5,5,100.00%,0,0.00%,0,0.00%,3,0,00:00:00,5
+India,bing,organic,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:20,2
+India,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,0,00:00:15,4
+India,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:08:05,2
+India,google,organic,(not set),desktop,US$0.00,385,231,60.00%,5,1.30%,0,0.00%,268,0,15:59:47,"1,096"
+India,google,organic,(not set),mobile,US$0.00,241,137,56.85%,1,0.41%,0,0.00%,179,0,11:11:49,913
+India,google,organic,(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:06:48,4
+India,google.com,referral,(not set),desktop,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,2,0,00:00:23,5
+India,groups.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:46,2
+India,in.search.yahoo.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:15,2
+India,int.search.tb.ask.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+India,linkedin.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+India,mail.google.com,referral,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:09:28,3
+India,mall-dev.googleplex.com,referral,(not set),desktop,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,2,0,01:23:36,36
+India,mall.googleplex.com,referral,(not set),desktop,US$0.00,32,3,9.38%,4,12.50%,0,0.00%,23,0,04:31:48,349
+India,Partners,affiliate,Data Share Promo,desktop,US$0.00,18,14,77.78%,0,0.00%,0,0.00%,16,0,00:27:47,36
+India,Partners,affiliate,Data Share Promo,mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:00:43,4
+India,quora.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:04:01,2
+India,support.google.com,referral,(not set),desktop,US$0.00,5,0,0.00%,0,0.00%,0,0.00%,1,0,01:51:10,65
+India,t.co,referral,(not set),desktop,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,4
+India,t.co,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+India,webdesigndubai3.blogspot.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+India,yahoo,organic,(not set),desktop,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,2,0,00:01:47,5
+India,youtube.com,referral,(not set),mobile,US$0.00,5,4,80.00%,0,0.00%,0,0.00%,3,0,00:00:45,7
+Iran,analytics.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Iran,google,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:01,1
+Iceland,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
+Iceland,google,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:03:53,5
+Italy,(direct),(none),(not set),desktop,US$0.00,10,4,40.00%,0,0.00%,0,0.00%,8,0,00:51:33,29
+Italy,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:26,2
+Italy,(not set),(not set),(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:05:33,8
+Italy,(not set),(not set),(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:02:03,7
+Italy,amp.reddit.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Italy,analytics.google.com,referral,(not set),desktop,US$0.00,25,13,52.00%,0,0.00%,0,0.00%,22,0,00:52:58,65
+Italy,bing,organic,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Italy,google,organic,(not set),desktop,US$0.00,80,54,67.50%,0,0.00%,0,0.00%,57,0,04:00:36,297
+Italy,google,organic,(not set),mobile,US$0.00,36,23,63.89%,0,0.00%,0,0.00%,22,0,01:55:27,120
+Italy,google,organic,(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:34,3
+Italy,mall.googleplex.com,referral,(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:03:10,7
+Italy,Partners,affiliate,Data Share Promo,desktop,US$0.00,16,7,43.75%,1,6.25%,0,0.00%,8,0,00:46:49,44
+Jamaica,google,organic,(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:09:48,38
+Jordan,google,organic,(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,2,0,00:00:14,4
+Jordan,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Japan,(direct),(none),(not set),desktop,US$0.00,27,13,48.15%,0,0.00%,0,0.00%,22,0,00:24:52,61
+Japan,(direct),(none),(not set),mobile,US$0.00,12,6,50.00%,0,0.00%,0,0.00%,10,0,00:41:09,38
+Japan,(direct),(none),(not set),tablet,US$0.00,17,9,52.94%,0,0.00%,0,0.00%,4,0,00:44:16,81
+Japan,(not set),(not set),(not set),desktop,US$0.00,7,3,42.86%,0,0.00%,0,0.00%,5,0,00:30:15,26
+Japan,(not set),(not set),(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:01:36,7
+Japan,admin.globalaccess.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Japan,analytics.google.com,referral,(not set),desktop,US$0.00,40,24,60.00%,0,0.00%,0,0.00%,28,0,00:51:33,81
+Japan,baidu,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Japan,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:22:49,12
+Japan,google,organic,(not set),desktop,US$0.00,121,70,57.85%,0,0.00%,0,0.00%,70,0,06:45:33,392
+Japan,google,organic,(not set),mobile,US$0.00,52,24,46.15%,1,1.92%,0,0.00%,34,0,03:16:53,232
+Japan,google,organic,(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:07:27,4
+Japan,google.com,referral,(not set),desktop,US$0.00,5,4,80.00%,1,20.00%,0,0.00%,3,0,01:10:30,18
+Japan,m.facebook.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Japan,mall.googleplex.com,referral,(not set),desktop,US$0.00,16,2,12.50%,1,6.25%,0,0.00%,11,0,01:35:11,161
+Japan,optimize.google.com,referral,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
+Japan,Partners,affiliate,Data Share Promo,desktop,US$0.00,8,4,50.00%,1,12.50%,0,0.00%,8,0,00:22:26,36
+Japan,qiita.com,referral,(not set),desktop,US$0.00,11,3,27.27%,0,0.00%,0,0.00%,8,0,00:35:41,51
+Japan,qiita.com,referral,(not set),mobile,US$0.00,9,4,44.44%,0,0.00%,0,0.00%,6,0,00:04:53,22
+Japan,qiita.com,referral,(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:00,11
+Japan,reddit.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Japan,support.google.com,referral,(not set),desktop,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,2,0,00:13:31,36
+Japan,t.co,referral,(not set),desktop,US$0.00,14,11,78.57%,0,0.00%,0,0.00%,5,0,00:03:42,21
+Japan,t.co,referral,(not set),mobile,US$0.00,5,4,80.00%,0,0.00%,0,0.00%,4,0,00:01:43,11
+Japan,t.co,referral,(not set),tablet,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,3
+Japan,yahoo,organic,(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Kenya,(direct),(none),(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,1,0,00:32:29,11
+Kenya,google,organic,(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,0,00:02:56,4
+Cambodia,google,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+South Korea,(direct),(none),(not set),desktop,US$0.00,26,13,50.00%,0,0.00%,0,0.00%,17,0,01:42:29,119
+South Korea,(direct),(none),(not set),mobile,US$0.00,34,22,64.71%,0,0.00%,0,0.00%,20,0,00:45:09,64
+South Korea,(direct),(none),(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+South Korea,(not set),(not set),(not set),desktop,US$0.00,9,2,22.22%,0,0.00%,0,0.00%,6,0,00:25:41,62
+South Korea,(not set),(not set),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:41,5
+South Korea,analytics.google.com,referral,(not set),desktop,US$0.00,226,90,39.82%,1,0.44%,0,0.00%,143,0,10:55:43,611
+South Korea,analytics.google.com,referral,(not set),mobile,US$0.00,7,6,85.71%,0,0.00%,0,0.00%,7,0,00:01:23,8
+South Korea,clien.net,referral,(not set),desktop,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,5,0,00:07:05,16
+South Korea,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,7,4,57.14%,0,0.00%,0,0.00%,7,0,00:32:10,17
+South Korea,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+South Korea,google,organic,(not set),desktop,US$0.00,106,49,46.23%,0,0.00%,0,0.00%,70,0,04:56:15,349
+South Korea,google,organic,(not set),mobile,US$0.00,19,6,31.58%,0,0.00%,0,0.00%,16,0,01:45:34,151
+South Korea,l.facebook.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+South Korea,m.clien.net,referral,(not set),mobile,US$0.00,18,14,77.78%,0,0.00%,0,0.00%,7,0,00:24:24,26
+South Korea,mall.googleplex.com,referral,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:06:04,16
+South Korea,Partners,affiliate,Data Share Promo,desktop,US$0.00,11,8,72.73%,0,0.00%,0,0.00%,6,0,00:01:28,17
+South Korea,t.co,referral,(not set),desktop,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,0,00:00:38,6
+Kuwait,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:33,8
+Kuwait,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Kuwait,google,organic,(not set),mobile,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,2,0,00:27:01,9
+Kazakhstan,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:32,2
+Kazakhstan,(direct),(none),(not set),mobile,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,3
+Kazakhstan,google,organic,(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:06:44,12
+Kazakhstan,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Lebanon,(direct),(none),(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:02:48,11
+Lebanon,google,organic,(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,1,0,00:36:01,31
+Sri Lanka,(not set),(not set),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Sri Lanka,google,organic,(not set),desktop,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,5,0,00:16:18,33
+Sri Lanka,google,organic,(not set),mobile,US$0.00,3,2,66.67%,1,33.33%,0,0.00%,3,0,00:03:59,11
+Lithuania,(direct),(none),(not set),desktop,US$0.00,8,4,50.00%,0,0.00%,0,0.00%,2,0,00:41:11,18
+Lithuania,google,organic,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:01:32,3
+Luxembourg,google,organic,(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
+Latvia,google,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Latvia,google,organic,(not set),mobile,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,2,0,00:27:58,4
+Latvia,l.facebook.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:18,10
+Morocco,analytics.google.com,referral,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Morocco,google,organic,(not set),desktop,US$0.00,9,3,33.33%,0,0.00%,0,0.00%,7,0,00:36:13,40
+Morocco,l.facebook.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Moldova,duckduckgo,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Moldova,google,organic,(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:00:39,7
+Moldova,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+North Macedonia,google,organic,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:01:48,5
+Myanmar (Burma),(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Myanmar (Burma),google,organic,(not set),desktop,US$0.00,2,1,50.00%,1,50.00%,0,0.00%,1,0,00:15:38,58
+Myanmar (Burma),google,organic,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:01,2
+Macao,analytics.google.com,referral,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,1,0,00:00:20,4
+Macao,google,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Macao,google,organic,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:16,2
+Mauritius,google,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Mexico,(direct),(none),(not set),desktop,US$0.00,14,4,28.57%,1,7.14%,0,0.00%,12,0,00:52:36,56
+Mexico,(direct),(none),(not set),mobile,US$0.00,12,8,66.67%,0,0.00%,0,0.00%,6,0,00:14:18,26
+Mexico,(not set),(not set),(not set),desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,3,0,00:19:27,14
+Mexico,(not set),(not set),(not set),mobile,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,3,0,00:05:21,13
+Mexico,analytics.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:09,2
+Mexico,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:03:36,3
+Mexico,dfa,cpm,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Mexico,google,organic,(not set),desktop,US$0.00,48,29,60.42%,1,2.08%,0,0.00%,30,0,01:22:37,175
+Mexico,google,organic,(not set),mobile,US$0.00,24,15,62.50%,0,0.00%,0,0.00%,19,0,00:54:30,81
+Mexico,google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:03:01,3
+Mexico,mall.googleplex.com,referral,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:07:01,9
+Mexico,Partners,affiliate,Data Share Promo,desktop,US$0.00,4,1,25.00%,0,0.00%,0,0.00%,2,0,00:07:52,25
+Mexico,support.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:20:38,3
+Malaysia,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:32,4
+Malaysia,(direct),(none),(not set),mobile,US$0.00,4,1,25.00%,0,0.00%,0,0.00%,3,0,00:16:00,9
+Malaysia,analytics.google.com,referral,(not set),desktop,US$0.00,10,5,50.00%,0,0.00%,0,0.00%,5,0,00:31:33,18
+Malaysia,google,organic,(not set),desktop,US$0.00,23,14,60.87%,0,0.00%,0,0.00%,18,0,00:38:57,90
+Malaysia,google,organic,(not set),mobile,US$0.00,28,17,60.71%,0,0.00%,0,0.00%,13,0,01:00:44,79
+Malaysia,Partners,affiliate,Data Share Promo,desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,3
+Malaysia,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:17:48,2
+Mozambique,google,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Nigeria,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:32,3
+Nigeria,google,organic,(not set),desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,3
+Nigeria,google,organic,(not set),mobile,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,5,0,00:09:55,24
+Nicaragua,google,organic,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:19,2
+Nicaragua,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Netherlands,(direct),(none),(not set),desktop,US$0.00,9,3,33.33%,0,0.00%,0,0.00%,8,0,00:54:17,26
+Netherlands,(direct),(none),(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:23:21,4
+Netherlands,(direct),(none),(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:55,3
+Netherlands,(not set),(not set),(not set),desktop,US$0.00,11,6,54.55%,0,0.00%,0,0.00%,10,0,00:09:21,22
+Netherlands,analytics.google.com,referral,(not set),desktop,US$0.00,44,22,50.00%,0,0.00%,0,0.00%,36,0,03:23:08,120
+Netherlands,baidu,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Netherlands,bing,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Netherlands,google,organic,(not set),desktop,US$0.00,166,110,66.27%,2,1.20%,0,0.00%,111,0,08:41:02,532
+Netherlands,google,organic,(not set),mobile,US$0.00,30,20,66.67%,0,0.00%,0,0.00%,21,0,00:34:37,92
+Netherlands,mall.googleplex.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:03:30,6
+Netherlands,nl.search.yahoo.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,1,0,00:05:25,5
+Netherlands,Partners,affiliate,Data Share Promo,desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,0,00:01:36,7
+Netherlands,t.co,referral,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
+Norway,(direct),(none),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,1,0,00:22:28,3
+Norway,(not set),(not set),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Norway,google,organic,(not set),desktop,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,5,0,00:11:01,10
+Norway,google,organic,(not set),mobile,US$0.00,5,4,80.00%,0,0.00%,0,0.00%,3,0,00:30:50,22
+Nepal,google,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Nepal,google,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+New Zealand,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+New Zealand,(not set),(not set),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:31,5
+New Zealand,analytics.google.com,referral,(not set),desktop,US$0.00,9,8,88.89%,0,0.00%,0,0.00%,4,0,00:00:43,10
+New Zealand,google,organic,(not set),desktop,US$0.00,8,3,37.50%,0,0.00%,0,0.00%,7,0,00:14:02,23
+New Zealand,google,organic,(not set),mobile,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,3
+New Zealand,groups.google.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+New Zealand,mall.googleplex.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:18,6
+New Zealand,Partners,affiliate,Data Share Promo,desktop,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,1,0,00:06:47,8
+Panama,google,organic,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
+Panama,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:03:30,3
+Peru,(direct),(none),(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Peru,(direct),(none),(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
+Peru,(not set),(not set),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:27,2
+Peru,analytics.google.com,referral,(not set),desktop,US$0.00,6,3,50.00%,0,0.00%,0,0.00%,5,0,00:04:20,15
+Peru,google,organic,(not set),desktop,US$0.00,40,19,47.50%,0,0.00%,0,0.00%,26,0,01:26:38,89
+Peru,google,organic,(not set),mobile,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,3,0,00:44:38,8
+Peru,mall.googleplex.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:37,3
+Peru,Partners,affiliate,Data Share Promo,desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:05:34,8
+Philippines,(direct),(none),(not set),desktop,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,3,0,00:05:45,21
+Philippines,(direct),(none),(not set),mobile,US$0.00,7,4,57.14%,1,14.29%,0,0.00%,3,0,00:15:47,51
+Philippines,(not set),(not set),(not set),desktop,US$0.00,2,0,0.00%,1,50.00%,0,0.00%,2,0,00:19:46,10
+Philippines,google,organic,(not set),desktop,US$0.00,27,8,29.63%,0,0.00%,0,0.00%,19,0,02:57:31,286
+Philippines,google,organic,(not set),mobile,US$0.00,32,22,68.75%,0,0.00%,0,0.00%,14,0,01:03:17,73
+Philippines,google,organic,(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:10:46,18
+Philippines,mail.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:04:28,6
+Pakistan,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Pakistan,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Pakistan,analytics.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Pakistan,google,organic,(not set),desktop,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,3,0,00:11:33,6
+Pakistan,google,organic,(not set),mobile,US$0.00,9,5,55.56%,0,0.00%,0,0.00%,6,0,00:07:20,29
+Pakistan,mall.googleplex.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:39,6
+Pakistan,yahoo,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:04,3
+Poland,(direct),(none),(not set),desktop,US$0.00,6,2,33.33%,0,0.00%,0,0.00%,4,0,00:32:12,14
+Poland,(direct),(none),(not set),mobile,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,3,0,00:14:04,16
+Poland,(not set),(not set),(not set),desktop,US$0.00,4,0,0.00%,0,0.00%,0,0.00%,4,0,00:12:21,20
+Poland,(not set),(not set),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:07,2
+Poland,analytics.google.com,referral,(not set),desktop,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,3,0,00:04:01,16
+Poland,blog.golang.org,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:59,3
+Poland,classroom.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,1,100.00%,0,0.00%,1,0,00:28:43,18
+Poland,google,organic,(not set),desktop,US$0.00,57,29,50.88%,0,0.00%,0,0.00%,37,0,04:26:39,229
+Poland,google,organic,(not set),mobile,US$0.00,12,4,33.33%,0,0.00%,0,0.00%,8,0,00:47:15,48
+Poland,google,organic,(not set),tablet,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Poland,google.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:02:04,6
+Poland,l.facebook.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Poland,m.facebook.com,referral,(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:15:34,23
+Poland,mall.googleplex.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:21,7
+Poland,Partners,affiliate,Data Share Promo,desktop,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,2,0,00:00:15,5
+Poland,support.google.com,referral,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,1,0,00:00:36,3
+Puerto Rico,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Puerto Rico,google,organic,(not set),desktop,US$0.00,9,5,55.56%,0,0.00%,0,0.00%,3,0,00:04:06,18
+Puerto Rico,google,organic,(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:09:51,4
+Palestine,analytics.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Portugal,(direct),(none),(not set),desktop,US$0.00,13,5,38.46%,0,0.00%,0,0.00%,10,0,00:28:45,36
+Portugal,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Portugal,(not set),(not set),(not set),desktop,US$0.00,7,5,71.43%,0,0.00%,0,0.00%,7,0,00:09:47,9
+Portugal,analytics.google.com,referral,(not set),desktop,US$0.00,52,22,42.31%,3,5.77%,0,0.00%,25,0,04:50:58,181
+Portugal,blog.golang.org,referral,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:00:29,4
+Portugal,blog.golang.org,referral,(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
+Portugal,google,organic,(not set),desktop,US$0.00,174,77,44.25%,3,1.72%,0,0.00%,92,0,16:15:38,643
+Portugal,google,organic,(not set),mobile,US$0.00,9,2,22.22%,0,0.00%,0,0.00%,6,0,00:24:03,28
+Portugal,Partners,affiliate,Data Share Promo,desktop,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,1,0,00:17:46,12
+Portugal,quora.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Portugal,t.co,referral,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Qatar,google,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:55,3
+Qatar,google,organic,(not set),mobile,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,2,0,00:06:43,10
+Romania,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Romania,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Romania,analytics.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:17,2
+Romania,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Romania,google,organic,(not set),desktop,US$0.00,10,8,80.00%,0,0.00%,0,0.00%,6,0,00:19:30,40
+Romania,google,organic,(not set),mobile,US$0.00,3,1,33.33%,1,33.33%,0,0.00%,3,0,00:25:07,43
+Romania,Partners,affiliate,Data Share Promo,desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Serbia,google,organic,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:04:47,13
+Serbia,google,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Russia,(direct),(none),(not set),desktop,US$0.00,11,7,63.64%,1,9.09%,0,0.00%,9,0,00:03:44,17
+Russia,(direct),(none),(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Russia,(not set),(not set),(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,0,00:00:11,4
+Russia,(not set),(not set),(not set),mobile,US$0.00,5,4,80.00%,0,0.00%,0,0.00%,1,0,00:00:08,6
+Russia,analytics.google.com,referral,(not set),desktop,US$0.00,25,11,44.00%,1,4.00%,0,0.00%,18,0,02:59:07,93
+Russia,blog.golang.org,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:23,2
+Russia,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Russia,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Russia,google,organic,(not set),desktop,US$0.00,46,28,60.87%,0,0.00%,0,0.00%,28,0,01:53:21,107
+Russia,google,organic,(not set),mobile,US$0.00,5,0,0.00%,1,20.00%,0,0.00%,5,0,00:20:22,38
+Russia,optimize.google.com,referral,(not set),desktop,US$0.00,4,1,25.00%,1,25.00%,0,0.00%,2,0,00:34:18,13
+Russia,Partners,affiliate,Data Share Promo,desktop,US$0.00,25,15,60.00%,0,0.00%,0,0.00%,13,0,02:12:14,50
+Russia,t.co,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Saudi Arabia,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:07:00,7
+Saudi Arabia,google,organic,(not set),desktop,US$0.00,8,5,62.50%,0,0.00%,0,0.00%,7,0,00:15:03,31
+Saudi Arabia,google,organic,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:12,2
+Saudi Arabia,mall.googleplex.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Saudi Arabia,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:40,2
+Sweden,analytics.google.com,referral,(not set),desktop,US$0.00,16,4,25.00%,0,0.00%,0,0.00%,13,0,00:57:26,49
+Sweden,google,organic,(not set),desktop,US$0.00,37,25,67.57%,0,0.00%,0,0.00%,28,0,00:55:52,77
+Sweden,google,organic,(not set),mobile,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,0,00:00:00,3
+Sweden,google,organic,(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:03:28,10
+Sweden,Partners,affiliate,Data Share Promo,desktop,US$0.00,8,2,25.00%,1,12.50%,0,0.00%,4,0,00:58:21,36
+Singapore,(direct),(none),(not set),desktop,US$0.00,17,6,35.29%,0,0.00%,0,0.00%,13,0,00:28:23,50
+Singapore,(direct),(none),(not set),mobile,US$0.00,6,5,83.33%,0,0.00%,0,0.00%,4,0,00:01:39,13
+Singapore,(not set),(not set),(not set),desktop,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,2,0,00:01:19,4
+Singapore,(not set),(not set),(not set),mobile,US$0.00,4,3,75.00%,0,0.00%,0,0.00%,4,0,00:00:13,5
+Singapore,analytics.google.com,referral,(not set),desktop,US$0.00,26,12,46.15%,0,0.00%,0,0.00%,20,0,02:55:39,78
+Singapore,baidu,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Singapore,baidu,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Singapore,bing,organic,(not set),desktop,US$0.00,10,3,30.00%,0,0.00%,0,0.00%,7,0,01:00:38,29
+Singapore,duckduckgo,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Singapore,google,organic,(not set),desktop,US$0.00,179,110,61.45%,6,3.35%,0,0.00%,102,0,09:33:16,653
+Singapore,google,organic,(not set),mobile,US$0.00,42,21,50.00%,2,4.76%,0,0.00%,23,0,02:54:21,188
+Singapore,google,organic,(not set),tablet,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:05,3
+Singapore,google.com,referral,(not set),desktop,US$0.00,4,1,25.00%,0,0.00%,0,0.00%,3,0,00:05:58,15
+Singapore,l.facebook.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Singapore,mall.googleplex.com,referral,(not set),desktop,US$0.00,20,3,15.00%,0,0.00%,0,0.00%,13,0,01:42:28,194
+Singapore,Partners,affiliate,Data Share Promo,desktop,US$0.00,5,5,100.00%,0,0.00%,0,0.00%,5,0,00:00:00,5
+Singapore,sg.search.yahoo.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:01:47,5
+Singapore,support.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:44,3
+Singapore,yahoo,organic,(not set),desktop,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,3,0,00:00:00,4
+Slovenia,google,organic,(not set),desktop,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,5,0,00:02:09,8
+Slovenia,google,organic,(not set),mobile,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,3,0,00:02:25,10
+Slovakia,(not set),(not set),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:39,6
+Slovakia,(not set),(not set),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:25,3
+Slovakia,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:51,5
+Slovakia,google,organic,(not set),desktop,US$0.00,11,8,72.73%,0,0.00%,0,0.00%,5,0,00:28:32,37
+Slovakia,google,organic,(not set),mobile,US$0.00,7,5,71.43%,0,0.00%,0,0.00%,6,0,00:04:37,13
+Senegal,google,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+El Salvador,(direct),(none),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+El Salvador,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:14,4
+El Salvador,(not set),(not set),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+El Salvador,google,organic,(not set),desktop,US$0.00,4,0,0.00%,1,25.00%,0,0.00%,2,0,01:16:46,65
+El Salvador,google,organic,(not set),mobile,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,2,0,00:21:45,25
+Thailand,(direct),(none),(not set),desktop,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,1,0,00:00:59,9
+Thailand,(direct),(none),(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:00:22,3
+Thailand,(not set),(not set),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:02:44,6
+Thailand,analytics.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:10,2
+Thailand,bing,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:33:24,29
+Thailand,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Thailand,google,organic,(not set),desktop,US$0.00,16,7,43.75%,0,0.00%,0,0.00%,8,0,01:27:08,106
+Thailand,google,organic,(not set),mobile,US$0.00,8,5,62.50%,0,0.00%,0,0.00%,4,0,00:05:04,19
+Thailand,mall.googleplex.com,referral,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:02:24,8
+Thailand,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:06:25,5
+Tunisia,(not set),(not set),(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Tunisia,google,organic,(not set),desktop,US$0.00,9,4,44.44%,0,0.00%,0,0.00%,8,0,00:13:51,30
+Türkiye,(direct),(none),(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:00:47,9
+Türkiye,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:04:00,13
+Türkiye,(not set),(not set),(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:04:36,13
+Türkiye,analytics.google.com,referral,(not set),desktop,US$0.00,5,1,20.00%,0,0.00%,0,0.00%,3,0,00:02:27,16
+Türkiye,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:08:20,31
+Türkiye,google,organic,(not set),desktop,US$0.00,22,11,50.00%,0,0.00%,0,0.00%,20,0,00:56:50,82
+Türkiye,google,organic,(not set),mobile,US$0.00,7,5,71.43%,0,0.00%,0,0.00%,5,0,00:07:40,10
+Türkiye,Partners,affiliate,Data Share Promo,desktop,US$0.00,9,5,55.56%,0,0.00%,0,0.00%,4,0,01:08:41,17
+Taiwan,(direct),(none),(not set),desktop,US$0.00,47,32,68.09%,0,0.00%,0,0.00%,25,0,01:32:18,122
+Taiwan,(direct),(none),(not set),mobile,US$0.00,30,21,70.00%,0,0.00%,0,0.00%,18,0,01:16:45,94
+Taiwan,(not set),(not set),(not set),desktop,US$0.00,15,7,46.67%,0,0.00%,0,0.00%,11,0,00:53:24,87
+Taiwan,(not set),(not set),(not set),mobile,US$0.00,4,0,0.00%,0,0.00%,0,0.00%,4,0,00:12:06,19
+Taiwan,analytics.google.com,referral,(not set),desktop,US$0.00,38,19,50.00%,0,0.00%,0,0.00%,30,0,00:30:42,81
+Taiwan,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:44,4
+Taiwan,facebook.com,referral,(not set),desktop,US$0.00,19,10,52.63%,0,0.00%,0,0.00%,11,0,01:37:37,34
+Taiwan,github.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:09:26,5
+Taiwan,google,cpc, MIX | Txt ~ AW - Accessories,desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:07,7
+Taiwan,google,organic,(not set),desktop,US$0.00,163,64,39.26%,2,1.23%,0,0.00%,105,0,11:00:03,867
+Taiwan,google,organic,(not set),mobile,US$0.00,57,32,56.14%,0,0.00%,0,0.00%,39,0,01:43:11,181
+Taiwan,google,organic,(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:06:58,19
+Taiwan,google.com,referral,(not set),desktop,US$0.00,9,3,33.33%,0,0.00%,0,0.00%,7,0,02:01:38,64
+Taiwan,googleads.g.doubleclick.net,referral,(not set),desktop,US$0.00,3,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:50,9
+Taiwan,l.facebook.com,referral,(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:01:27,9
+Taiwan,l.messenger.com,referral,(not set),desktop,US$0.00,8,3,37.50%,0,0.00%,0,0.00%,2,0,00:45:01,90
+Taiwan,mall.googleplex.com,referral,(not set),desktop,US$0.00,47,7,14.89%,1,2.13%,0,0.00%,20,0,05:58:19,568
+Taiwan,Partners,affiliate,Data Share Promo,desktop,US$0.00,34,17,50.00%,0,0.00%,0,0.00%,31,0,01:12:26,120
+Taiwan,Partners,affiliate,Data Share Promo,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Taiwan,t.co,referral,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Tanzania,google,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Tanzania,google,organic,(not set),mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:18:23,9
+Ukraine,(direct),(none),(not set),desktop,US$0.00,9,6,66.67%,0,0.00%,0,0.00%,2,0,00:26:45,48
+Ukraine,(direct),(none),(not set),mobile,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+Ukraine,analytics.google.com,referral,(not set),desktop,US$0.00,6,4,66.67%,0,0.00%,0,0.00%,4,0,00:00:14,8
+Ukraine,google,organic,(not set),desktop,US$0.00,14,11,78.57%,0,0.00%,0,0.00%,8,0,00:14:32,26
+Ukraine,google,organic,(not set),mobile,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,4,0,00:00:00,4
+Ukraine,googleads.g.doubleclick.net,referral,(not set),desktop,US$0.00,5,1,20.00%,0,0.00%,0,0.00%,1,0,00:29:12,33
+Ukraine,Partners,affiliate,Data Share Promo,desktop,US$0.00,5,4,80.00%,0,0.00%,0,0.00%,4,0,00:06:26,12
+Uganda,(direct),(none),(not set),desktop,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,4
+Uganda,(direct),(none),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:21:24,26
+United States,(not set),(not set),(not set),desktop,US$0.00,194,56,28.87%,7,3.61%,0,0.00%,127,0,20:00:36,"1,401"
+United States,(not set),(not set),(not set),tablet,US$0.00,11,6,54.55%,1,9.09%,0,0.00%,6,0,00:18:48,59
+United States,adssettings.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:35,4
+United States,amazon.com,referral,(not set),desktop,US$0.00,4,0,0.00%,0,0.00%,0,0.00%,1,0,00:31:22,33
+United States,analytics.google.com,referral,(not set),desktop,US$0.00,143,46,32.17%,3,2.10%,0,0.00%,82,0,17:26:00,616
+United States,baidu,organic,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+United States,baidu,organic,(not set),mobile,US$0.00,3,2,66.67%,0,0.00%,0,0.00%,3,0,00:00:48,5
+United States,bing,organic,(not set),desktop,US$0.00,17,7,41.18%,0,0.00%,0,0.00%,13,0,01:21:45,74
+United States,bing,organic,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:04:02,6
+United States,bing,organic,(not set),tablet,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,1,0,00:23:45,3
+United States,blog.golang.org,referral,(not set),desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,0,00:00:00,3
+United States,blog.golang.org,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+United States,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,8,3,37.50%,0,0.00%,0,0.00%,5,0,00:46:31,31
+United States,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,5,0,00:05:18,29
+United States,dealspotr.com,referral,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
+United States,developers.google.com,referral,(not set),desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,0,00:00:00,3
+United States,dfa,cpm,(not set),desktop,US$0.00,54,36,66.67%,0,0.00%,0,0.00%,46,0,00:53:36,141
+United States,dfa,cpm,(not set),mobile,US$0.00,47,35,74.47%,0,0.00%,0,0.00%,32,0,00:18:38,71
+United States,dfa,cpm,(not set),tablet,US$0.00,21,15,71.43%,0,0.00%,0,0.00%,9,0,00:14:27,38
+United States,docs.google.com,referral,(not set),desktop,US$0.00,4,1,25.00%,0,0.00%,0,0.00%,3,0,01:01:07,32
+United States,duckduckgo,organic,(not set),desktop,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,3,0,00:15:08,32
+United States,duckduckgo,organic,(not set),mobile,US$0.00,6,1,16.67%,0,0.00%,0,0.00%,4,0,00:15:23,23
+United States,facebook.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:06:33,9
+United States,google,cpc, MIX | Txt ~ AW - Accessories,desktop,US$0.00,78,21,26.92%,2,2.56%,0,0.00%,43,0,05:44:22,548
+United States,google,cpc, MIX | Txt ~ AW - Accessories,mobile,US$0.00,30,13,43.33%,0,0.00%,0,0.00%,20,0,02:21:49,201
+United States,google,cpc, MIX | Txt ~ AW - Accessories,tablet,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,1,0,00:03:16,4
+United States,google,cpc, MIX | Txt ~ AW - Apparel,desktop,US$0.00,37,6,16.22%,4,10.81%,0,0.00%,27,0,03:27:31,321
+United States,google,cpc, MIX | Txt ~ AW - Bags,desktop,US$0.00,4,0,0.00%,0,0.00%,0,0.00%,4,0,00:02:16,10
+United States,google,cpc, MIX | Txt ~ AW - Bags,mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:03:28,13
+United States,google,cpc, MIX | Txt ~ AW - Drinkware,desktop,US$0.00,9,4,44.44%,0,0.00%,0,0.00%,7,0,00:27:39,46
+United States,google,cpc, MIX | Txt ~ AW - Drinkware,mobile,US$0.00,8,0,0.00%,0,0.00%,0,0.00%,6,0,00:31:50,73
+United States,google,cpc, MIX | Txt ~ AW - Office,mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+United States,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),desktop,US$0.00,585,139,23.76%,13,2.22%,0,0.00%,379,0,47:12:25,"4,256"
+United States,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),mobile,US$0.00,220,75,34.09%,4,1.82%,0,0.00%,150,0,12:08:31,"1,099"
+United States,google,cpc, MIX | Txt ~ AW-Brand (US/Cali),tablet,US$0.00,13,5,38.46%,0,0.00%,0,0.00%,8,0,00:54:43,58
+United States,google,cpc, PHR | Txt ~ AW - YouTube,desktop,US$0.00,14,6,42.86%,2,14.29%,0,0.00%,10,0,01:08:43,90
+United States,google,cpc, PHR | Txt ~ AW - YouTube,mobile,US$0.00,14,7,50.00%,0,0.00%,0,0.00%,13,0,00:05:15,33
+United States,google,cpc, PHR | Txt ~ AW - YouTube,tablet,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:01:34,9
+United States,google,cpc,(not set),desktop,US$0.00,12,2,16.67%,0,0.00%,0,0.00%,9,0,00:22:03,45
+United States,google,cpc,(not set),mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,3,0,00:08:27,5
+United States,google.com,referral,(not set),desktop,US$0.00,184,56,30.43%,3,1.63%,0,0.00%,132,0,13:17:50,"1,174"
+United States,google.com,referral,(not set),mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:05:47,20
+United States,groups.google.com,referral,(not set),desktop,US$0.00,64,22,34.38%,6,9.38%,0,0.00%,40,0,06:17:29,443
+United States,keep.google.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:04:45,13
+United States,l.facebook.com,referral,(not set),desktop,US$0.00,5,2,40.00%,0,0.00%,0,0.00%,4,0,00:39:32,46
+United States,l.messenger.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:03:25,16
+United States,linkedin.com,referral,(not set),desktop,US$0.00,4,4,100.00%,0,0.00%,0,0.00%,4,0,00:00:00,4
+United States,lm.facebook.com,referral,(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:00:10,4
+United States,m.facebook.com,referral,(not set),mobile,US$0.00,5,4,80.00%,0,0.00%,0,0.00%,5,0,00:00:24,9
+United States,m.wikihow.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+United States,mail.google.com,referral,(not set),desktop,US$0.00,25,8,32.00%,0,0.00%,0,0.00%,17,0,02:10:00,224
+United States,mail.google.com,referral,(not set),mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:24:21,16
+United States,mall.googleplex.com,referral,(not set),desktop,US$0.00,"4,228",714,16.89%,271,6.41%,0,0.00%,"2,456",0,440:48:23,"40,138"
+United States,mall.googleplex.com,referral,(not set),mobile,US$0.00,21,8,38.10%,0,0.00%,0,0.00%,16,0,00:36:43,90
+United States,messages.google.com,referral,(not set),desktop,US$0.00,4,1,25.00%,1,25.00%,0,0.00%,3,0,00:26:44,60
+United States,optimize.google.com,referral,(not set),desktop,US$0.00,12,8,66.67%,1,8.33%,0,0.00%,5,0,00:49:05,81
+United States,outlook.live.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:55,3
+United States,Partners,affiliate,Data Share Promo,desktop,US$0.00,38,23,60.53%,0,0.00%,0,0.00%,27,0,02:06:17,78
+United States,pinterest.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+United States,plus.google.com,referral,(not set),desktop,US$0.00,5,5,100.00%,0,0.00%,0,0.00%,5,0,00:00:00,5
+United States,quora.com,referral,(not set),mobile,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:10:05,31
+United States,reddit.com,referral,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:20,4
+United States,reddit.com,referral,(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:07,13
+United States,support.google.com,referral,(not set),desktop,US$0.00,93,17,18.28%,1,1.08%,0,0.00%,59,0,08:59:26,588
+United States,support.google.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+United States,t.co,referral,(not set),desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,3,0,00:02:10,6
+United States,t.co,referral,(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:05:32,8
+United States,wikihow.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:06:12,10
+United States,yahoo,organic,(not set),desktop,US$0.00,10,5,50.00%,0,0.00%,0,0.00%,8,0,01:14:03,56
+United States,yahoo,organic,(not set),mobile,US$0.00,7,4,57.14%,1,14.29%,0,0.00%,5,0,00:04:03,18
+United States,youtube.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+United States,youtube.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Uruguay,analytics.google.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Uruguay,google,organic,(not set),desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,2,0,00:00:00,2
+St. Vincent & Grenadines,google,organic,(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:46,6
+Vietnam,(direct),(none),(not set),desktop,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,1,0,00:22:35,4
+Vietnam,(not set),(not set),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:00:38,4
+Vietnam,analytics.google.com,referral,(not set),desktop,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,2,0,00:10:35,8
+Vietnam,creatoracademy.youtube.com,referral,(not set),desktop,US$0.00,3,3,100.00%,0,0.00%,0,0.00%,3,0,00:00:00,3
+Vietnam,creatoracademy.youtube.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Vietnam,google,organic,(not set),desktop,US$0.00,17,10,58.82%,1,5.88%,0,0.00%,9,0,02:34:15,43
+Vietnam,google,organic,(not set),mobile,US$0.00,2,0,0.00%,0,0.00%,0,0.00%,1,0,00:19:04,21
+Vietnam,l.messenger.com,referral,(not set),desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Vietnam,Partners,affiliate,Data Share Promo,desktop,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+Yemen,(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:22:25,19
+Yemen,analytics.google.com,referral,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+South Africa,(direct),(none),(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:01:37,8
+South Africa,(direct),(none),(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+South Africa,(not set),(not set),(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:00:36,3
+South Africa,analytics.google.com,referral,(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:44:07,6
+South Africa,google,organic,(not set),desktop,US$0.00,10,9,90.00%,0,0.00%,0,0.00%,10,0,00:00:00,10
+South Africa,google,organic,(not set),mobile,US$0.00,10,4,40.00%,1,10.00%,0,0.00%,7,0,00:21:55,57
+(not set),(direct),(none),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:08,4
+(not set),(direct),(none),(not set),mobile,US$0.00,2,1,50.00%,0,0.00%,0,0.00%,2,0,00:01:22,3
+(not set),(not set),(not set),(not set),desktop,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:02:14,3
+(not set),(not set),(not set),(not set),mobile,US$0.00,1,0,0.00%,0,0.00%,0,0.00%,1,0,00:01:06,6
+(not set),analytics.google.com,referral,(not set),desktop,US$0.00,3,1,33.33%,0,0.00%,0,0.00%,2,0,00:20:44,12
+(not set),baidu,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+(not set),google,organic,(not set),desktop,US$0.00,4,2,50.00%,0,0.00%,0,0.00%,4,0,00:07:49,6
+(not set),google,organic,(not set),mobile,US$0.00,1,1,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,1
+(not set),Partners,affiliate,Data Share Promo,desktop,US$0.00,2,2,100.00%,0,0.00%,0,0.00%,1,0,00:00:00,2
