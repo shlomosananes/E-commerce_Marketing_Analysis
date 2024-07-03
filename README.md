@@ -5,4 +5,4 @@ Funnel and Conversion Analysis of the Google Merchandise Store
 # Available on Tableau Public
 https://public.tableau.com/app/profile/shlomo.sananes/viz/E-commerceMarketingAnalysis-GoogleMerchandiseStore/Dash1-Overview?publish=yes
 
-# (Developers Institute Data Analytics Bootcamp - FINAL PROJECT)
+# Developers Institute Data Analytics Bootcamp - FINAL PROJECT
