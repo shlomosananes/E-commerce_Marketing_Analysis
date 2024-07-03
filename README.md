@@ -1,2 +1,3 @@
 # E-commerce_Marketing_Analysis
-Final Project on Developers Institute Data Analytics Bootcamp
+Funnel and Conversion Analysis of the Google Merchandise Store
+(Developers Institute Data Analytics Bootcamp - FINAL PROJECT)
